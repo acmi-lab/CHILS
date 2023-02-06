@@ -1,0 +1,11 @@
+_target_: src.extract_feats.EvalNet
+
+arch: ${arch}
+pretrained: ${pretrained}
+retrain: False
+max_epochs: 1
+base_task: ${base_task}
+
+work_dir: ${work_dir}
+hash: ${logger.group}
+target_dataset: ${datamodule.target_dataset}

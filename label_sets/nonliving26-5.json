@@ -1,0 +1,210 @@
+{
+   "bag": [
+      "bag",
+      "Duffle bag",
+      "tote bag",
+      "messenger bag",
+      "backpack bag",
+      "hobo bag"
+   ],
+   "ball": [
+      "ball",
+      "soccer ball",
+      "tennis ball",
+      "baseball",
+      "basketball",
+      "volleyball"
+   ],
+   "boat": [
+      "boat",
+      "sailboat",
+      "speedboat",
+      "catamaran boat",
+      "pontoon boat",
+      "kayak boat"
+   ],
+   "body armor": [
+      "body armor",
+      "flak jacket body armor",
+      "bulletproof vest body armor",
+      "kevlar body armor",
+      "plate carrier body armor",
+      "ballistic helmet body armor"
+   ],
+   "bottle": [
+      "bottle",
+      "water bottle",
+      "beer bottle",
+      "soda bottle",
+      "perfume bottle",
+      "shampoo bottle"
+   ],
+   "bus": [
+      "bus",
+      "School bus",
+      "city bus",
+      "charter bus",
+      "coach bus",
+      "doubledecker bus"
+   ],
+   "car": [
+      "car",
+      "suv car",
+      "minivan car",
+      "crossover car",
+      "hatchback car",
+      "electric car"
+   ],
+   "chair": [
+      "chair",
+      "bar chair",
+      "beach chair",
+      "booster chair",
+      "camp chair",
+      "captains chair"
+   ],
+   "coat": [
+      "coat",
+      "Trench coat",
+      "pea coat",
+      "anorak coat",
+      "parka coat",
+      "duffle coat"
+   ],
+   "digital computer": [
+      "digital computer",
+      "personal computer digital computer",
+      "laptop digital computer",
+      "tablet digital computer",
+      "smartphone digital computer",
+      "server digital computer"
+   ],
+   "dwelling": [
+      "dwelling",
+      "House dwelling",
+      "apartment dwelling",
+      "condo dwelling",
+      "townhouse dwelling",
+      "villa dwelling"
+   ],
+   "fence": [
+      "fence",
+      "chainlink fence",
+      "picket fence",
+      "postandrail fence",
+      "privacy fence",
+      "shadowbox fence"
+   ],
+   "hat": [
+      "hat",
+      "beanie hat",
+      "baseball cap hat",
+      "fedora hat",
+      "cowboy hat",
+      "top hat"
+   ],
+   "keyboard instrument": [
+      "keyboard instrument",
+      "piano keyboard instrument",
+      "organ keyboard instrument",
+      "harpsichord keyboard instrument",
+      "clavichord keyboard instrument",
+      "celesta keyboard instrument"
+   ],
+   "mercantile establishment": [
+      "mercantile establishment",
+      "grocery store mercantile establishment",
+      "department store mercantile establishment",
+      "convenience store mercantile establishment",
+      "drug store mercantile establishment",
+      "discount store mercantile establishment"
+   ],
+   "outbuilding": [
+      "outbuilding",
+      "barn outbuilding",
+      "garage outbuilding",
+      "shed outbuilding",
+      "gazebo outbuilding",
+      "tool shed outbuilding"
+   ],
+   "percussion instrument": [
+      "percussion instrument",
+      "cymbal percussion instrument",
+      "snare drum percussion instrument",
+      "bongo percussion instrument",
+      "conga percussion instrument",
+      "timbale percussion instrument"
+   ],
+   "pot": [
+      "pot",
+      "Cooking pot",
+      "flower pot",
+      "plant pot",
+      "pottery",
+      "pots and pans"
+   ],
+   "roof": [
+      "roof",
+      "shingle roof",
+      "metal roof",
+      "tile roof",
+      "thatch roof",
+      "slate roof"
+   ],
+   "ship": [
+      "ship",
+      "sloop ship",
+      "yacht ship",
+      "cruiser ship",
+      "corvette ship",
+      "frigate ship"
+   ],
+   "skirt": [
+      "skirt",
+      "bell skirt",
+      "pleated skirt",
+      "aline skirt",
+      "mini skirt",
+      "maxi skirt"
+   ],
+   "stringed instrument": [
+      "stringed instrument",
+      "guitar stringed instrument",
+      "banjo stringed instrument",
+      "ukulele stringed instrument",
+      "mandolin stringed instrument",
+      "bass stringed instrument"
+   ],
+   "timepiece": [
+      "timepiece",
+      "watch timepiece",
+      "clock timepiece",
+      "chronometer timepiece",
+      "stopwatch timepiece",
+      "timer timepiece"
+   ],
+   "truck": [
+      "truck",
+      "Dump truck",
+      "garbage truck",
+      "ice cream truck",
+      "milk truck",
+      "moving truck"
+   ],
+   "wind instrument": [
+      "wind instrument",
+      "flute wind instrument",
+      "clarinet wind instrument",
+      "saxophone wind instrument",
+      "oboe wind instrument",
+      "bassoon wind instrument"
+   ],
+   "squash": [
+      "squash",
+      "acorn squash",
+      "butternut squash",
+      "cantaloupe squash",
+      "honeydew squash",
+      "zucchini squash"
+   ]
+}

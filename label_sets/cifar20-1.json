@@ -1,0 +1,181 @@
+{
+   "aquatic mammals": [
+      "aquatic mammals",
+      "dolphins aquatic mammals",
+      "whales aquatic mammals",
+      "seals aquatic mammals",
+      "sea lions aquatic mammals",
+      "manatees aquatic mammals",
+      "dugongs aquatic mammals",
+      "walruses aquatic mammals"
+   ],
+   "fish": [
+      "fish",
+      "salmon fish",
+      "trout fish",
+      "catfish",
+      "tuna fish",
+      "cod fish"
+   ],
+   "flowers": [
+      "flowers",
+      "rose flowers",
+      "daisy flowers",
+      "lily flowers",
+      "tulip flowers",
+      "orchid flowers"
+   ],
+   "food containers": [
+      "food containers",
+      "Tupperware food containers",
+      "Ziploc bags food containers",
+      "aluminum foil food containers",
+      "parchment paper food containers",
+      "wax paper food containers"
+   ],
+   "fruit and vegetables": [
+      "fruit and vegetables",
+      "Fruit fruit and vegetables",
+      "vegetables fruit and vegetables"
+   ],
+   "household electrical devices": [
+      "household electrical devices",
+      "Blender household electrical devices",
+      "toaster household electrical devices",
+      "coffee maker household electrical devices",
+      "electric can opener household electrical devices",
+      "food processor household electrical devices",
+      "mixer household electrical devices",
+      "Juicer household electrical devices"
+   ],
+   "household furniture": [
+      "household furniture",
+      "couch household furniture",
+      "chair household furniture",
+      "coffee table household furniture",
+      "end table household furniture",
+      "TV stand household furniture",
+      "dresser household furniture",
+      "nightstand household furniture",
+      "bed household furniture"
+   ],
+   "insects": [
+      "insects",
+      "butterflies insects",
+      "moths insects",
+      "beetles insects",
+      "bees insects",
+      "wasps insects",
+      "ants insects",
+      "flies insects"
+   ],
+   "large carnivores": [
+      "large carnivores",
+      "lions large carnivores",
+      "tigers large carnivores",
+      "panthers large carnivores",
+      "leopards large carnivores",
+      "bears large carnivores",
+      "etc large carnivores"
+   ],
+   "large man-made outdoor things": [
+      "large man-made outdoor things",
+      "stadiums large man-made outdoor things",
+      "arenas large man-made outdoor things",
+      "bridges large man-made outdoor things",
+      "dams large man-made outdoor things"
+   ],
+   "large natural outdoor scenes": [
+      "large natural outdoor scenes",
+      "sunsets large natural outdoor scenes",
+      "mountains large natural outdoor scenes",
+      "deserts large natural outdoor scenes",
+      "forests large natural outdoor scenes",
+      "rivers large natural outdoor scenes"
+   ],
+   "large omnivores and herbivores": [
+      "large omnivores and herbivores",
+      "large omnivores large omnivores and herbivores",
+      "large herbivores large omnivores and herbivores"
+   ],
+   "medium mammals": [
+      "medium mammals",
+      "cat medium mammals",
+      "dog medium mammals",
+      "bat medium mammals",
+      "deer medium mammals",
+      "fox medium mammals",
+      "raccoon medium mammals",
+      "bear medium mammals",
+      "sheep medium mammals",
+      "goat medium mammals",
+      "pig medium mammals"
+   ],
+   "non-insect invertebrates": [
+      "non-insect invertebrates",
+      "starfish non-insect invertebrates",
+      "squid non-insect invertebrates",
+      "octopus non-insect invertebrates",
+      "crab non-insect invertebrates",
+      "lobster non-insect invertebrates",
+      "shrimp non-insect invertebrates",
+      "oyster non-insect invertebrates",
+      "scallop non-insect invertebrates",
+      "clam non-insect invertebrates",
+      "snail non-insect invertebrates",
+      "slug non-insect invertebrates",
+      "jellyfish non-insect invertebrates",
+      "anemone non-insect invertebrates",
+      "coral non-insect invertebrates",
+      "worm non-insect invertebrates"
+   ],
+   "people": [
+      "people",
+      "dancers people",
+      "athletes people",
+      "musicians people",
+      "actors people",
+      "actresses people"
+   ],
+   "reptiles": [
+      "reptiles",
+      "Alligators reptiles",
+      "Anacondas reptiles",
+      "Cobras reptiles",
+      "Crocodiles reptiles",
+      "Gila Monsters reptiles",
+      "Komodo Dragons reptiles",
+      "Lizards reptiles",
+      "Snakes reptiles"
+   ],
+   "small mammals": [
+      "small mammals",
+      "mice small mammals",
+      "rats small mammals",
+      "hamsters small mammals",
+      "gerbils small mammals",
+      "guinea pigs small mammals",
+      "rabbits small mammals"
+   ],
+   "trees": [
+      "trees",
+      "Oak trees",
+      "Maple trees",
+      "Pine trees",
+      "Birch trees",
+      "Cherry trees",
+      "Elm trees",
+      "Cypress trees",
+      "Douglas Fir trees",
+      "Hemlock trees",
+      "Spruce trees"
+   ],
+   "vehicles": [
+      "vehicles",
+      "car vehicles",
+      "motorcycle vehicles",
+      "bicycle vehicles",
+      "train vehicles",
+      "bus vehicles"
+   ]
+}

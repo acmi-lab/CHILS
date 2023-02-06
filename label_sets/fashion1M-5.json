@@ -1,0 +1,112 @@
+{
+   "Chiffon": [
+      "Chiffon",
+      "Georgette Chiffon",
+      "Crepe de Chine Chiffon",
+      "Voile Chiffon",
+      "Batiste Chiffon"
+   ],
+   "Downcoat": [
+      "Downcoat",
+      "Trench coat Downcoat",
+      "duffle coat Downcoat",
+      "parka Downcoat",
+      "anorak Downcoat",
+      "pea coat Downcoat"
+   ],
+   "Dress": [
+      "Dress",
+      "Tshirt dress",
+      "maxi dress",
+      "midi dress",
+      "mini dress",
+      "wrap dress"
+   ],
+   "Hoodie": [
+      "Hoodie",
+      "zipup Hoodie",
+      "pullover Hoodie",
+      "oversized Hoodie",
+      "cropped Hoodie",
+      "kangaroo pocket Hoodie"
+   ],
+   "Jacket": [
+      "Jacket",
+      "Trench Jacket",
+      "blazer Jacket",
+      "bomber Jacket",
+      "denim Jacket",
+      "leather Jacket"
+   ],
+   "Knitwear": [
+      "Knitwear",
+      "cardigans Knitwear",
+      "pullovers Knitwear",
+      "sweaters Knitwear",
+      "wraps Knitwear",
+      "shawls Knitwear"
+   ],
+   "Shawl": [
+      "Shawl",
+      "Pashmina Shawl",
+      "Cashmere Shawl",
+      "Wool Shawl",
+      "Silk Shawl",
+      "Cotton Shawl"
+   ],
+   "Shirt": [
+      "Shirt",
+      "Tshirt",
+      "polo shirt",
+      "dress shirt",
+      "casual shirt",
+      "buttondown shirt"
+   ],
+   "Suit": [
+      "Suit",
+      "Clubs Suit",
+      "Diamonds Suit",
+      "Hearts Suit",
+      "Spades Suit"
+   ],
+   "Sweater": [
+      "Sweater",
+      "Turtleneck Sweater",
+      "Vneck Sweater",
+      "cardigan Sweater",
+      "pullover Sweater",
+      "sweater vest"
+   ],
+   "T-Shirt": [
+      "T-Shirt",
+      "TShirt T-Shirt",
+      "VNeck T-Shirt",
+      "CrewNeck T-Shirt",
+      "Henley T-Shirt",
+      "Pocket T-Shirt"
+   ],
+   "Underwear": [
+      "Underwear",
+      "boxers Underwear",
+      "briefs Underwear",
+      "boxer briefs Underwear",
+      "thongs Underwear",
+      "gstrings Underwear"
+   ],
+   "Vest": [
+      "Vest",
+      "Tshirt Vest",
+      "blouse Vest",
+      "sweater Vest",
+      "jacket Vest",
+      "coat Vest"
+   ],
+   "Windbreaker": [
+      "Windbreaker",
+      "Anorak Windbreaker",
+      "parka Windbreaker",
+      "bomber jacket Windbreaker",
+      "duffle coat Windbreaker",
+      "trench coat Windbreaker"
+   ]
+}

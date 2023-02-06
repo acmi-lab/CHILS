@@ -1,0 +1,82 @@
+{
+   "annual crop land": [
+      "annual crop land",
+      "wheat annual crop land",
+      "barley annual crop land",
+      "oats annual crop land",
+      "rye annual crop land",
+      "maize annual crop land"
+   ],
+   "forest": [
+      "forest",
+      "coniferous forest",
+      "deciduous forest",
+      "broadleaf forest",
+      "taiga forest",
+      "rainforest"
+   ],
+   "brushland or shrubland": [
+      "brushland or shrubland",
+      "Sagebrush steppe brushland or shrubland",
+      "Chaparral brushland or shrubland",
+      "Woodland brushland or shrubland",
+      "Taiga brushland or shrubland",
+      "Tundra brushland or shrubland"
+   ],
+   "highway or road": [
+      "highway or road",
+      "Interstate highway or road",
+      "highway highway or road",
+      "freeway highway or road",
+      "road highway or road",
+      "street highway or road"
+   ],
+   "industrial buildings or commercial buildings": [
+      "industrial buildings or commercial buildings",
+      "warehouses industrial buildings or commercial buildings",
+      "factories industrial buildings or commercial buildings",
+      "office buildings industrial buildings or commercial buildings",
+      "shopping centers industrial buildings or commercial buildings",
+      "storage facilities industrial buildings or commercial buildings"
+   ],
+   "pasture land": [
+      "pasture land",
+      "prairie pasture land",
+      "meadow pasture land",
+      "savanna pasture land",
+      "steppe pasture land",
+      "tundra pasture land"
+   ],
+   "permanent crop land": [
+      "permanent crop land",
+      "orchard permanent crop land",
+      "vineyard permanent crop land",
+      "olive grove permanent crop land",
+      "tea plantation permanent crop land",
+      "rubber plantation permanent crop land"
+   ],
+   "residential buildings or homes or apartments": [
+      "residential buildings or homes or apartments",
+      "homes residential buildings or homes or apartments",
+      "apartments residential buildings or homes or apartments",
+      "condos residential buildings or homes or apartments",
+      "townhouses residential buildings or homes or apartments",
+      "duplexes residential buildings or homes or apartments"
+   ],
+   "river": [
+      "river",
+      "Rio Grande river",
+      "Susquehanna river",
+      "Mississippi river",
+      "Colorado river",
+      "Columbia river"
+   ],
+   "lake or sea": [
+      "lake or sea",
+      "Fjord lake or sea",
+      "Tarn lake or sea",
+      "Estuary lake or sea",
+      "Lagoon lake or sea",
+      "Lake lake or sea"
+   ]
+}

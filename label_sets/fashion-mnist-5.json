@@ -1,0 +1,85 @@
+{
+   "T-shirt": [
+      "T-shirt",
+      "black T-shirt",
+      "white T-shirt",
+      "grey T-shirt",
+      "blue T-shirt",
+      "pink T-shirt"
+   ],
+   "Trouser": [
+      "Trouser",
+      "Cargo Trouser",
+      "Chino Trouser",
+      "Denim Trouser",
+      "Khaki Trouser",
+      "Sweat Trouser"
+   ],
+   "Pullover": [
+      "Pullover",
+      "Turtleneck Pullover",
+      "Vneck Pullover",
+      "Crewneck Pullover",
+      "Henley Pullover",
+      "Polo Pullover"
+   ],
+   "Dress": [
+      "Dress",
+      "Aline Dress",
+      "ball gown Dress",
+      "sheath Dress",
+      "mermaid Dress",
+      "empire Dress"
+   ],
+   "Coat": [
+      "Coat",
+      "Trench coat",
+      "pea coat",
+      "duffle coat",
+      "parka Coat",
+      "raincoat"
+   ],
+   "Sandal": [
+      "Sandal",
+      "sandals",
+      "flipflops Sandal",
+      "slides Sandal",
+      "thongs Sandal",
+      "clogs Sandal"
+   ],
+   "Shirt": [
+      "Shirt",
+      "Tshirt",
+      "muscle shirt",
+      "tank top Shirt",
+      "buttondown shirt",
+      "dress shirt"
+   ],
+   "Sneaker": [
+      "Sneaker",
+      "Nike Sneaker",
+      "Adidas Sneaker",
+      "Puma Sneaker",
+      "Reebok Sneaker",
+      "Asics Sneaker"
+   ],
+   "Bag": [
+      "Bag",
+      "Backpack Bag",
+      "messenger bag",
+      "laptop bag",
+      "duffle bag",
+      "tote bag"
+   ],
+   "Ankle boot": [
+      "Ankle boot",
+      "Chelsea boot",
+      "Chukka boot",
+      "Combat boot",
+      "Desert boot",
+      "Dress boot",
+      "Hiking boot",
+      "Riding boot",
+      "Work boot"
+   ]
+}

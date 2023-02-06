@@ -1,0 +1,160 @@
+{
+   "aquatic mammals": [
+      "aquatic mammals",
+      "dolphin aquatic mammals",
+      "whale aquatic mammals",
+      "otter aquatic mammals",
+      "sea lion aquatic mammals",
+      "walrus aquatic mammals"
+   ],
+   "fish": [
+      "fish",
+      "Tuna fish",
+      "Salmon fish",
+      "Cod fish",
+      "Halibut fish",
+      "Striped Bass fish"
+   ],
+   "flowers": [
+      "flowers",
+      "daisies flowers",
+      "roses flowers",
+      "lilies flowers",
+      "tulips flowers",
+      "orchids flowers"
+   ],
+   "food containers": [
+      "food containers",
+      "Can food containers",
+      "Jar food containers",
+      "Bottle food containers",
+      "Box food containers",
+      "Sack food containers"
+   ],
+   "fruit and vegetables": [
+      "fruit and vegetables",
+      "Apple fruit and vegetables",
+      "Banana fruit and vegetables",
+      "Carrot fruit and vegetables",
+      "Cucumber fruit and vegetables",
+      "Grapefruit"
+   ],
+   "household electrical devices": [
+      "household electrical devices",
+      "lamps household electrical devices",
+      "lights household electrical devices",
+      "fans household electrical devices",
+      "appliances household electrical devices",
+      "electronics household electrical devices"
+   ],
+   "household furniture": [
+      "household furniture",
+      "couch household furniture",
+      "coffee table household furniture",
+      "end table household furniture",
+      "lamps household furniture",
+      "rug household furniture"
+   ],
+   "insects": [
+      "insects",
+      "butterflies insects",
+      "beetles insects",
+      "grasshoppers insects",
+      "moths insects",
+      "bees insects"
+   ],
+   "large carnivores": [
+      "large carnivores",
+      "lion large carnivores",
+      "tiger large carnivores",
+      "leopard large carnivores",
+      "bear large carnivores",
+      "wolf large carnivores"
+   ],
+   "large man-made outdoor things": [
+      "large man-made outdoor things",
+      "buildings large man-made outdoor things",
+      "bridges large man-made outdoor things",
+      "dams large man-made outdoor things",
+      "towers large man-made outdoor things",
+      "roads large man-made outdoor things"
+   ],
+   "large natural outdoor scenes": [
+      "large natural outdoor scenes",
+      "beaches large natural outdoor scenes",
+      "mountains large natural outdoor scenes",
+      "forests large natural outdoor scenes",
+      "deserts large natural outdoor scenes",
+      "lakes large natural outdoor scenes"
+   ],
+   "large omnivores and herbivores": [
+      "large omnivores and herbivores",
+      "large omnivores bears",
+      "lions large omnivores and herbivores",
+      "tigers large omnivores and herbivores",
+      "wolves large omnivores and herbivores",
+      "alligatorslarge herbivores elephants",
+      "hippopotamuses large omnivores and herbivores",
+      "rhinoceroses large omnivores and herbivores",
+      "giraffes large omnivores and herbivores",
+      "buffaloes large omnivores and herbivores"
+   ],
+   "medium mammals": [
+      "medium mammals",
+      "dolphin medium mammals",
+      "whale medium mammals",
+      "porpoise medium mammals",
+      "sloth medium mammals",
+      "koala medium mammals"
+   ],
+   "non-insect invertebrates": [
+      "non-insect invertebrates",
+      "clams non-insect invertebrates",
+      "snails non-insect invertebrates",
+      "squid non-insect invertebrates",
+      "octopuses non-insect invertebrates",
+      "crabs non-insect invertebrates"
+   ],
+   "people": [
+      "people",
+      "moms people",
+      "dads people",
+      "kids people",
+      "grandparents people",
+      "aunts people",
+      "uncles people",
+      "cousins people"
+   ],
+   "reptiles": [
+      "reptiles",
+      "Iguanas reptiles",
+      "snakes reptiles",
+      "lizards reptiles",
+      "turtles reptiles",
+      "crocodiles reptiles"
+   ],
+   "small mammals": [
+      "small mammals",
+      "hamster small mammals",
+      "gerbil small mammals",
+      "mouse small mammals",
+      "rat small mammals",
+      "chinchilla small mammals"
+   ],
+   "trees": [
+      "trees",
+      "birch trees",
+      "maple trees",
+      "oak trees",
+      "pine trees",
+      "willow trees"
+   ],
+   "vehicles": [
+      "vehicles",
+      "car vehicles",
+      "truck vehicles",
+      "bus vehicles",
+      "train vehicles",
+      "airplane vehicles"
+   ]
+}

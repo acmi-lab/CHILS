@@ -1,0 +1,82 @@
+{
+   "bedroom": [
+      "bedroom",
+      "master bedroom",
+      "guest bedroom",
+      "nursery bedroom",
+      "childhood bedroom",
+      "spare bedroom"
+   ],
+   "bridge": [
+      "bridge",
+      "link bridge",
+      "overpass bridge",
+      "span bridge",
+      "connection bridge",
+      "crossing bridge"
+   ],
+   "church outdoor": [
+      "church outdoor",
+      "sanctuary church outdoor",
+      "chapel church outdoor",
+      "tabernacle church outdoor",
+      "churchyard",
+      "nave church outdoor"
+   ],
+   "classroom": [
+      "classroom",
+      "class classroom",
+      "course classroom",
+      "lesson classroom",
+      "seminar classroom",
+      "tutorial classroom"
+   ],
+   "conference room": [
+      "conference room",
+      "auditorium conference room",
+      "banquet hall conference room",
+      "convention center conference room",
+      "forum conference room",
+      "meeting hall conference room"
+   ],
+   "dining room": [
+      "dining room",
+      "eatery dining room",
+      "restaurant dining room",
+      "caf dining room",
+      "bistro dining room",
+      "mess hall dining room"
+   ],
+   "kitchen": [
+      "kitchen",
+      "cabinet kitchen",
+      "counter kitchen",
+      "dishwasher kitchen",
+      "sink kitchen",
+      "stove kitchen"
+   ],
+   "living room": [
+      "living room",
+      "lounge living room",
+      "great room",
+      "den living room",
+      "family room",
+      "recreation room"
+   ],
+   "restaurant": [
+      "restaurant",
+      "cafeteria restaurant",
+      "bistro restaurant",
+      "diner restaurant",
+      "eatery restaurant",
+      "grill restaurant"
+   ],
+   "tower": [
+      "tower",
+      "skyscraper tower",
+      "bell tower",
+      "minaret tower",
+      "turret tower",
+      "keep tower"
+   ]
+}

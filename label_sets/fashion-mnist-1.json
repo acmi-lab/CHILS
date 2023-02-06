@@ -1,0 +1,70 @@
+{
+   "T-shirt": [
+      "T-shirt",
+      "Tshirt T-shirt",
+      " T-shirt"
+   ],
+   "Trouser": [
+      "Trouser",
+      " Trouser"
+   ],
+   "Pullover": [
+      "Pullover",
+      " Pullover"
+   ],
+   "Dress": [
+      "Dress",
+      "skirt Dress",
+      "blouse Dress",
+      "shirt Dress",
+      "dress",
+      "pants Dress",
+      "shorts Dress",
+      "jeans Dress"
+   ],
+   "Coat": [
+      "Coat",
+      "Trench coat",
+      "pea coat",
+      "parka Coat",
+      "anorak Coat",
+      "duffle coat",
+      "cape Coat",
+      "poncho Coat",
+      "bomber jacket Coat",
+      "leather jacket Coat",
+      "denim jacket Coat"
+   ],
+   "Sandal": [
+      "Sandal"
+   ],
+   "Shirt": [
+      "Shirt",
+      "Tshirt",
+      "buttondown shirt",
+      "polo shirt",
+      "dress shirt",
+      "tank top Shirt"
+   ],
+   "Sneaker": [
+      "Sneaker",
+      "loafer Sneaker",
+      "sandal Sneaker",
+      "boot Sneaker",
+      "high heel Sneaker",
+      "flats Sneaker",
+      "sneakers"
+   ],
+   "Bag": [
+      "Bag",
+      "Backpack Bag",
+      "briefcase Bag",
+      "messenger bag",
+      "duffel bag",
+      "purse Bag"
+   ],
+   "Ankle boot": [
+      "Ankle boot",
+      " Ankle boot"
+   ]
+}

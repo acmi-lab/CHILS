@@ -1,0 +1,777 @@
+{
+   "apple pie": [
+      "apple pie",
+      "pie apple pie",
+      "apple apple pie"
+   ],
+   "baby back ribs": [
+      "baby back ribs",
+      "pork baby back ribs",
+      "ribs baby back ribs"
+   ],
+   "baklava": [
+      "baklava",
+      "filo dough baklava",
+      "honey baklava",
+      "nuts baklava",
+      "butter baklava",
+      "cinnamon baklava",
+      "cloves baklava"
+   ],
+   "beef carpaccio": [
+      "beef carpaccio",
+      "beef beef carpaccio",
+      "carpaccio beef carpaccio"
+   ],
+   "beef tartare": [
+      "beef tartare",
+      "beef beef tartare",
+      "tartare beef tartare"
+   ],
+   "beet salad": [
+      "beet salad",
+      "beets beet salad",
+      "salad beet salad"
+   ],
+   "beignets": [
+      "beignets",
+      " beignets"
+   ],
+   "bibimbap": [
+      "bibimbap",
+      "Korean bibimbap"
+   ],
+   "bread pudding": [
+      "bread pudding",
+      "Bread pudding",
+      " bread pudding"
+   ],
+   "breakfast burrito": [
+      "breakfast burrito",
+      "potatoes breakfast burrito",
+      "eggs breakfast burrito",
+      "bacon breakfast burrito",
+      "sausage breakfast burrito",
+      "ham breakfast burrito",
+      "cheese breakfast burrito",
+      "onion breakfast burrito",
+      "green pepper breakfast burrito",
+      "red pepper breakfast burrito",
+      "jalapeo pepper breakfast burrito",
+      "tomato breakfast burrito",
+      "sour cream breakfast burrito",
+      "guacamole breakfast burrito",
+      "salsa breakfast burrito"
+   ],
+   "bruschetta": [
+      "bruschetta",
+      "Tomato bruschetta",
+      "Basil bruschetta",
+      "Mozzarella bruschetta",
+      "Olive Oil bruschetta",
+      "Balsamic Vinegar bruschetta",
+      "Garlic bruschetta",
+      "Bread bruschetta"
+   ],
+   "caesar salad": [
+      "caesar salad",
+      "Cabbage caesar salad",
+      "carrots caesar salad",
+      "celery caesar salad",
+      "chicken caesar salad",
+      "croutons caesar salad",
+      "dressing caesar salad",
+      "garlic caesar salad",
+      "lemon juice caesar salad",
+      "lettuce caesar salad",
+      "Parmesan cheese caesar salad",
+      "pepper caesar salad",
+      "salt caesar salad",
+      "shrimp caesar salad",
+      "sour cream caesar salad",
+      "tomatoes caesar salad",
+      "turkey caesar salad",
+      "vinegar caesar salad",
+      "zucchini caesar salad"
+   ],
+   "cannoli": [
+      "cannoli",
+      "Italian pastry cannoli"
+   ],
+   "caprese salad": [
+      "caprese salad",
+      "mozzarella caprese salad",
+      "tomatoes caprese salad",
+      "basil caprese salad",
+      "olive oil caprese salad",
+      "balsamic vinegar caprese salad"
+   ],
+   "carrot cake": [
+      "carrot cake",
+      "carrot carrot cake",
+      "cake carrot cake"
+   ],
+   "ceviche": [
+      "ceviche",
+      "seafood ceviche",
+      "fish ceviche",
+      "shrimp ceviche",
+      "scallops ceviche",
+      "fish roe ceviche",
+      "squid ceviche",
+      "octopus ceviche",
+      "lobster ceviche",
+      "crab ceviche",
+      "crayfish ceviche"
+   ],
+   "cheese plate": [
+      "cheese plate",
+      "brie cheese plate",
+      "blue cheese cheese plate",
+      "Camembert cheese plate",
+      "feta cheese plate",
+      "goat cheese cheese plate",
+      "Gruyere cheese plate",
+      "Parmesan cheese plate",
+      "Roquefort cheese plate",
+      "Chevre cheese plate"
+   ],
+   "cheesecake": [
+      "cheesecake",
+      "cheese cheesecake",
+      "cake cheesecake"
+   ],
+   "chicken curry": [
+      "chicken curry",
+      "curry chicken curry",
+      "chicken chicken curry"
+   ],
+   "chicken quesadilla": [
+      "chicken quesadilla",
+      "chicken chicken quesadilla",
+      "quesadilla chicken quesadilla"
+   ],
+   "chicken wings": [
+      "chicken wings",
+      "barbecue chicken wings",
+      "buffalo chicken wings",
+      "honey chicken wings",
+      "soy sauce chicken wings",
+      "teriyaki chicken wings"
+   ],
+   "chocolate cake": [
+      "chocolate cake",
+      "Chocolate cake",
+      "vanilla cake chocolate cake",
+      "strawberry cake chocolate cake",
+      "carrot cake chocolate cake",
+      "red velvet cake chocolate cake"
+   ],
+   "chocolate mousse": [
+      "chocolate mousse",
+      "chocolate cake chocolate mousse",
+      "chocolate ice cream chocolate mousse",
+      "chocolate pudding chocolate mousse",
+      "chocolate chips chocolate mousse",
+      "chocolate candy chocolate mousse",
+      "chocolate cookies chocolate mousse",
+      "chocolate brownies chocolate mousse",
+      "chocolate bars chocolate mousse"
+   ],
+   "churros": [
+      "a churros",
+      "churros"
+   ],
+   "clam chowder": [
+      "clam chowder",
+      "Clam chowder",
+      " clam chowder"
+   ],
+   "club sandwich": [
+      "club sandwich",
+      "Bread club sandwich",
+      "mayonnaise club sandwich",
+      "turkey club sandwich",
+      "bacon club sandwich",
+      "lettuce club sandwich",
+      "tomato club sandwich",
+      "bread club sandwich"
+   ],
+   "crab cakes": [
+      "crab cakes",
+      "shellfish crab cakes",
+      "cake crab cakes",
+      "seafood crab cakes"
+   ],
+   "creme brulee": [
+      "creme brulee",
+      " creme brulee"
+   ],
+   "croque madame": [
+      "croque madame",
+      "Croque madame",
+      "Croque monsieur croque madame",
+      "Croqueenbouche croque madame",
+      "Croquembouche croque madame",
+      "Croquettes croque madame"
+   ],
+   "cup cakes": [
+      "cup cakes",
+      "chocolate cup cakes",
+      "vanilla cup cakes",
+      "strawberry cup cakes",
+      "red velvet cup cakes",
+      "lemon cup cakes",
+      "pumpkin spice cup cakes",
+      "peppermint cup cakes"
+   ],
+   "deviled eggs": [
+      "deviled eggs",
+      "Deviled eggs",
+      "egg salad deviled eggs",
+      "OMELETTES deviled eggs",
+      "quiche deviled eggs",
+      "scrambled eggs deviled eggs",
+      "souffle deviled eggs"
+   ],
+   "donuts": [
+      "donuts",
+      "glazed donuts",
+      "jelly donuts",
+      "powdered donuts",
+      "Boston cream donuts",
+      "Old Fashioned donuts",
+      "cake donuts",
+      "long john donuts"
+   ],
+   "dumplings": [
+      "dumplings",
+      "potstickers dumplings",
+      "ravioli dumplings",
+      "wontons dumplings",
+      "empanadas dumplings",
+      "pierogies dumplings"
+   ],
+   "edamame": [
+      "edamame"
+   ],
+   "eggs benedict": [
+      "eggs benedict",
+      " eggs benedict"
+   ],
+   "escargots": [
+      "escargots",
+      "snails escargots"
+   ],
+   "falafel": [
+      "falafel",
+      "chickpea falafel",
+      "fava bean falafel",
+      "garbanzo bean falafel",
+      "lima bean falafel",
+      "navy bean falafel",
+      "pinto bean falafel",
+      "white bean falafel"
+   ],
+   "filet mignon": [
+      "filet mignon",
+      "beef filet mignon",
+      "pork filet mignon",
+      "chicken filet mignon",
+      "lamb filet mignon",
+      "turkey filet mignon",
+      "veal filet mignon",
+      "fish filet mignon",
+      "seafood filet mignon"
+   ],
+   "fish and chips": [
+      "fish and chips",
+      "fish fish and chips",
+      "chips fish and chips"
+   ],
+   "foie gras": [
+      "foie gras",
+      "pate foie gras",
+      "rillette foie gras",
+      "mousse foie gras",
+      "galantine foie gras",
+      "ballotine foie gras",
+      "terrine foie gras"
+   ],
+   "french fries": [
+      "french fries",
+      "potatoes french fries",
+      "vegetable oil french fries",
+      "salt french fries"
+   ],
+   "french onion soup": [
+      "french onion soup",
+      "onions french onion soup",
+      "broth french onion soup",
+      "croutons french onion soup",
+      "cheese french onion soup"
+   ],
+   "french toast": [
+      "french toast",
+      "bread french toast",
+      "eggs french toast",
+      "milk french toast",
+      "butter french toast",
+      "sugar french toast",
+      "cinnamon french toast",
+      "vanilla extract french toast"
+   ],
+   "fried calamari": [
+      "fried calamari",
+      "seafood fried calamari",
+      "fried food fried calamari",
+      "appetizer fried calamari",
+      "squid fried calamari"
+   ],
+   "fried rice": [
+      "fried rice",
+      "Fried rice",
+      " fried rice"
+   ],
+   "frozen yogurt": [
+      "frozen yogurt",
+      "Frozen yogurt",
+      "ice cream frozen yogurt",
+      "gelato frozen yogurt",
+      "sorbet frozen yogurt"
+   ],
+   "garlic bread": [
+      "garlic bread",
+      "Bread garlic bread",
+      "garlic garlic bread"
+   ],
+   "gnocchi": [
+      "gnocchi",
+      "potato gnocchi",
+      "spinach gnocchi",
+      "cheese gnocchi",
+      "pumpkin gnocchi"
+   ],
+   "greek salad": [
+      "greek salad",
+      "lettuce greek salad",
+      "tomatoes greek salad",
+      "onions greek salad",
+      "cucumbers greek salad",
+      "olives greek salad",
+      "feta cheese greek salad",
+      "dressing greek salad"
+   ],
+   "grilled cheese sandwich": [
+      "grilled cheese sandwich",
+      " grilled cheese sandwich"
+   ],
+   "grilled salmon": [
+      "grilled salmon",
+      "Grilled salmon",
+      " grilled salmon"
+   ],
+   "guacamole": [
+      "guacamole",
+      "avocados guacamole",
+      "onions guacamole",
+      "tomatoes guacamole",
+      "cilantro guacamole",
+      "lime juice guacamole",
+      "salt guacamole",
+      "pepper guacamole"
+   ],
+   "gyoza": [
+      "gyoza",
+      "wonton gyoza",
+      "ravioli gyoza",
+      "potsticker gyoza",
+      "empanada gyoza",
+      "dumpling gyoza",
+      "pierogi gyoza",
+      "samosa gyoza",
+      "spring roll gyoza",
+      "turnover gyoza"
+   ],
+   "hamburger": [
+      "hamburger",
+      "beef hamburger",
+      "pork hamburger",
+      "lamb hamburger",
+      "turkey hamburger",
+      "chicken hamburger"
+   ],
+   "hot and sour soup": [
+      "hot and sour soup",
+      "hot hot and sour soup",
+      "sour hot and sour soup"
+   ],
+   "hot dog": [
+      "hot dog",
+      "beef hot dog",
+      "pork hot dog",
+      "turkey hot dog",
+      "vegan hot dog",
+      "vegetarian hot dog"
+   ],
+   "huevos rancheros": [
+      "huevos rancheros",
+      "eggs huevos rancheros",
+      "tortillas huevos rancheros",
+      "salsa huevos rancheros",
+      "beans huevos rancheros",
+      "cheese huevos rancheros"
+   ],
+   "hummus": [
+      "hummus",
+      "chickpea hummus",
+      "sesame hummus",
+      "garlic hummus",
+      "lemon hummus",
+      "olive oil hummus",
+      "salt hummus",
+      "cumin hummus",
+      "paprika hummus",
+      "chili flakes hummus"
+   ],
+   "ice cream": [
+      "ice cream",
+      "strawberry ice cream",
+      "chocolate ice cream",
+      "vanilla ice cream",
+      "mint ice cream",
+      "cookies and cream ice cream",
+      "butter pecan ice cream",
+      "cherry ice cream",
+      "grape ice cream",
+      "bubblegum ice cream"
+   ],
+   "lasagna": [
+      "lasagna",
+      "Noodles lasagna",
+      "cheese lasagna",
+      "sauce lasagna",
+      " lasagna"
+   ],
+   "lobster bisque": [
+      "Lobster bisque",
+      "clam chowder lobster bisque",
+      "minestrone lobster bisque",
+      "chicken noodle soup lobster bisque",
+      "vegetable soup lobster bisque",
+      "tomato soup lobster bisque",
+      "beef chili lobster bisque",
+      "chicken chili lobster bisque",
+      "turkey chili lobster bisque",
+      "black bean chili lobster bisque",
+      "lentil soup lobster bisque",
+      "ham and bean soup lobster bisque",
+      "split pea soup lobster bisque",
+      "black bean soup lobster bisque",
+      "vegetable beef soup lobster bisque",
+      "chicken and rice soup lobster bisque",
+      "beef and vegetable soup lobster bisque",
+      "tomato rice soup lobster bisque",
+      "chicken tortilla soup lobster bisque",
+      "beef stew lobster bisque",
+      "beef and barley soup lobster bisque",
+      "chicken and dumplings lobster bisque",
+      "vegetable beef and barley soup lobster bisque",
+      "beef and noodles lobster bisque",
+      "beef and vegetable stew lobster bisque",
+      "Irish stew lobster bisque",
+      "lamb stew lobster bisque",
+      "beef and black bean soup lobster bisque",
+      "chili con carne lobster bisque",
+      "white chili lobster bisque",
+      "chicken and wild rice soup lobster bisque",
+      "Manhattan clam chowder lobster bisque",
+      "New England clam chowder lobster bisque",
+      "Rhode Island clam chowder lobster bisque",
+      "Cincinnati chili lobster bisque",
+      "TexMex chili lobster bisque",
+      "Detroit chili lobster bisque",
+      "Kentucky burgoo lobster bisque",
+      "Brunswick stew lobster bisque",
+      "chicken gumbo lobster bisque",
+      "shrimp gumbo lobster bisque",
+      "seafood gumbo lobster bisque",
+      "andouille gumbo lobster bisque",
+      "chicken and sausage gumbo lobster bisque",
+      "duck gumbo lobster bisque",
+      "okra gumbo lobster bisque",
+      "seafood bisque lobster bisque",
+      "shrimp bisque lobster bisque",
+      "lobster bisque"
+   ],
+   "lobster roll sandwich": [
+      "lobster roll sandwich",
+      " lobster roll sandwich"
+   ],
+   "macaroni and cheese": [
+      "macaroni and cheese",
+      "mac and cheese macaroni and cheese",
+      "grilled cheese macaroni and cheese",
+      "cheese sticks macaroni and cheese",
+      "quesadillas macaroni and cheese",
+      "nachos macaroni and cheese",
+      "tacos macaroni and cheese",
+      "fajitas macaroni and cheese",
+      "burritos macaroni and cheese",
+      "enchiladas macaroni and cheese"
+   ],
+   "macarons": [
+      "macarons",
+      "Macarons are a type of French cookie that is made from almond meal",
+      "sugar macarons",
+      "and egg whites macarons"
+   ],
+   "miso soup": [
+      "miso soup",
+      "Miso soup is a type of soup made with miso paste",
+      "a fermented soybean paste miso soup"
+   ],
+   "mussels": [
+      "mussels",
+      "seafood mussels"
+   ],
+   "nachos": [
+      "nachos",
+      "Nacho chips nachos",
+      "nacho cheese nachos",
+      "salsa nachos",
+      "refried beans nachos",
+      "guacamole nachos",
+      "sour cream nachos"
+   ],
+   "omelette": [
+      "omelette",
+      "eggs omelette",
+      "ham omelette",
+      "cheese omelette",
+      "mushrooms omelette",
+      "onions omelette",
+      "peppers omelette",
+      "tomatoes omelette",
+      "spinach omelette",
+      "potatoes omelette"
+   ],
+   "onion rings": [
+      "onion rings",
+      " onion rings"
+   ],
+   "oysters": [
+      "oysters",
+      "raw oysters",
+      "smoked oysters",
+      "canned oysters",
+      "pickled oysters"
+   ],
+   "pad thai": [
+      "pad thai",
+      "Pad Thai"
+   ],
+   "paella": [
+      "paella",
+      "seafood paella",
+      "chicken paella",
+      "sausage paella",
+      "rice paella",
+      "vegetables paella",
+      "saffron paella"
+   ],
+   "pancakes": [
+      "pancakes",
+      "Pancakes",
+      " pancakes"
+   ],
+   "panna cotta": [
+      "panna cotta",
+      "strawberry panna cotta",
+      "blueberry panna cotta",
+      "raspberry panna cotta",
+      "peach panna cotta",
+      "apricot panna cotta"
+   ],
+   "peking duck": [
+      "peking duck",
+      "Peking duck is a type of roasted duck that is traditionally cooked in a special oven"
+   ],
+   "pho": [
+      "pho",
+      "Vietnamese pho"
+   ],
+   "pizza": [
+      "pizza",
+      "Pizza"
+   ],
+   "pork chop": [
+      "pork chop",
+      " pork chop"
+   ],
+   "poutine": [
+      "poutine",
+      "fries poutine",
+      "cheese poutine",
+      "gravy poutine"
+   ],
+   "prime rib": [
+      "prime rib",
+      "beef prime rib",
+      "pork prime rib",
+      "lamb prime rib",
+      "chicken prime rib",
+      "turkey prime rib",
+      "veal prime rib",
+      "buffalo prime rib",
+      "venison prime rib"
+   ],
+   "pulled pork sandwich": [
+      "pulled pork sandwich",
+      " pulled pork sandwich"
+   ],
+   "ramen": [
+      "ramen",
+      "Ramen",
+      " ramen"
+   ],
+   "ravioli": [
+      "ravioli",
+      "cheese ravioli",
+      "spinach and feta ravioli",
+      "four cheese ravioli",
+      "roasted garlic and herb ravioli",
+      "meat ravioli",
+      "meat and cheese ravioli",
+      "sausage and cheese ravioli"
+   ],
+   "red velvet cake": [
+      "red velvet cake",
+      " red velvet cake"
+   ],
+   "risotto": [
+      "risotto",
+      "Italian risotto",
+      "creamy risotto",
+      "rice risotto",
+      "dish risotto",
+      "Parmesan risotto",
+      "cheese risotto",
+      "wine risotto",
+      "mushrooms risotto",
+      "saffron risotto"
+   ],
+   "samosa": [
+      "samosa",
+      "potato samosa",
+      "peas samosa",
+      "onion samosa",
+      "ginger samosa",
+      "chili samosa",
+      "garam masala samosa",
+      "cumin samosa",
+      "coriander samosa",
+      "turmeric samosa",
+      "salt samosa",
+      "pepper samosa",
+      "cilantro samosa",
+      "lime juice samosa",
+      "flour samosa",
+      "water samosa",
+      "oil samosa"
+   ],
+   "sashimi": [
+      "sashimi",
+      "tuna sashimi",
+      "salmon sashimi",
+      "yellowtail sashimi",
+      "snapper sashimi",
+      "halibut sashimi"
+   ],
+   "scallops": [
+      "scallops",
+      "seafood scallops"
+   ],
+   "seaweed salad": [
+      "seaweed salad"
+   ],
+   "shrimp and grits": [
+      "shrimp and grits",
+      "shrimp shrimp and grits",
+      "grits shrimp and grits"
+   ],
+   "spaghetti bolognese": [
+      "spaghetti bolognese",
+      "lasagna spaghetti bolognese",
+      "fettuccine alfredo spaghetti bolognese",
+      "ravioli spaghetti bolognese",
+      "macaroni and cheese spaghetti bolognese"
+   ],
+   "spaghetti carbonara": [
+      "spaghetti carbonara",
+      "eggs spaghetti carbonara",
+      "cheese spaghetti carbonara",
+      "pancetta spaghetti carbonara",
+      "black pepper spaghetti carbonara",
+      "parsley spaghetti carbonara"
+   ],
+   "spring rolls": [
+      "spring rolls",
+      "Spring rolls"
+   ],
+   "steak": [
+      "steak",
+      "pizza steak",
+      "tacos steak",
+      "burritos steak",
+      "hamburgers steak"
+   ],
+   "strawberry shortcake": [
+      "strawberry shortcake",
+      "strawberry strawberry shortcake",
+      "shortcake strawberry shortcake"
+   ],
+   "sushi": [
+      "sushi",
+      "Nigiri sushi",
+      "maki sushi",
+      "sashimi sushi",
+      "temaki sushi",
+      "uramaki sushi"
+   ],
+   "tacos": [
+      "tacos",
+      "beef tacos",
+      "chicken tacos",
+      "carnitas tacos",
+      "fish tacos",
+      "al pastor tacos",
+      "veggie tacos"
+   ],
+   "takoyaki": [
+      "takoyaki",
+      "seafood takoyaki",
+      "japanese takoyaki"
+   ],
+   "tiramisu": [
+      "tiramisu",
+      "coffee tiramisu",
+      "ladyfingers tiramisu",
+      "mascarpone tiramisu",
+      "cocoa tiramisu"
+   ],
+   "tuna tartare": [
+      "tuna tartare",
+      "tuna tuna tartare",
+      "tartare tuna tartare"
+   ],
+   "waffles": [
+      "waffles",
+      "strawberry waffles",
+      "blueberry waffles",
+      "pumpkin waffles",
+      "chocolate chip waffles",
+      "cinnamon waffles",
+      "vanilla waffles"
+   ]
+}

@@ -1,0 +1,140 @@
+{
+   "fruit and vegetables": [
+      "apple",
+      "mushroom",
+      "orange",
+      "pear",
+      "sweet pepper"
+   ],
+   "fish": [
+      "aquarium fish",
+      "flatfish",
+      "ray",
+      "shark",
+      "trout"
+   ],
+   "people": [
+      "baby",
+      "boy",
+      "girl",
+      "man",
+      "woman"
+   ],
+   "large carnivores": [
+      "bear",
+      "leopard",
+      "lion",
+      "tiger",
+      "wolf"
+   ],
+   "aquatic mammals": [
+      "beaver",
+      "dolphin",
+      "otter",
+      "seal",
+      "whale"
+   ],
+   "household furniture": [
+      "bed",
+      "chair",
+      "couch",
+      "table",
+      "wardrobe"
+   ],
+   "insects": [
+      "bee",
+      "beetle",
+      "butterfly",
+      "caterpillar",
+      "cockroach"
+   ],
+   "vehicles": [
+      "bicycle",
+      "bus",
+      "lawn mower",
+      "motorcycle",
+      "pickup truck",
+      "rocket",
+      "streetcar",
+      "tank",
+      "tractor",
+      "train"
+   ],
+   "food containers": [
+      "bottle",
+      "bowl",
+      "can",
+      "cup",
+      "plate"
+   ],
+   "large man-made outdoor things": [
+      "bridge",
+      "castle",
+      "house",
+      "road",
+      "skyscraper"
+   ],
+   "large omnivores and herbivores": [
+      "camel",
+      "cattle",
+      "chimpanzee",
+      "elephant",
+      "kangaroo"
+   ],
+   "household electrical devices": [
+      "clock",
+      "keyboard",
+      "lamp",
+      "telephone",
+      "television"
+   ],
+   "large natural outdoor scenes": [
+      "cloud",
+      "forest",
+      "mountain",
+      "plain",
+      "sea"
+   ],
+   "non-insect invertebrates": [
+      "crab",
+      "lobster",
+      "snail",
+      "spider",
+      "worm"
+   ],
+   "reptiles": [
+      "crocodile",
+      "dinosaur",
+      "lizard",
+      "snake",
+      "turtle"
+   ],
+   "medium mammals": [
+      "fox",
+      "porcupine",
+      "possum",
+      "raccoon",
+      "skunk"
+   ],
+   "small mammals": [
+      "hamster",
+      "mouse",
+      "rabbit",
+      "shrew",
+      "squirrel"
+   ],
+   "trees": [
+      "maple tree",
+      "oak tree",
+      "palm tree",
+      "pine tree",
+      "willow tree"
+   ],
+   "flowers": [
+      "orchid",
+      "poppy",
+      "rose",
+      "sunflower",
+      "tulip"
+   ]
+}

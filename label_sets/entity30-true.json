@@ -1,0 +1,302 @@
+{
+   "serpentes": [
+      "thunder snake",
+      "ringneck snake",
+      "hognose snake",
+      "green snake",
+      "king snake",
+      "garter snake",
+      "diamondback",
+      "sidewinder"
+   ],
+   "passerine": [
+      "brambling",
+      "goldfinch",
+      "house finch",
+      "junco",
+      "indigo bunting",
+      "robin",
+      "bulbul",
+      "jay"
+   ],
+   "saurian": [
+      "banded gecko",
+      "common iguana",
+      "American chameleon",
+      "whiptail",
+      "agama",
+      "frilled lizard",
+      "alligator lizard",
+      "Gila monster"
+   ],
+   "arachnid": [
+      "harvestman",
+      "scorpion",
+      "black and gold garden spider",
+      "barn spider",
+      "garden spider",
+      "black widow",
+      "tarantula",
+      "wolf spider"
+   ],
+   "aquatic bird": [
+      "drake",
+      "red-breasted merganser",
+      "white stork",
+      "black stork",
+      "little blue heron",
+      "American egret",
+      "bittern",
+      "red-backed sandpiper"
+   ],
+   "crustacean": [
+      "Dungeness crab",
+      "rock crab",
+      "fiddler crab",
+      "king crab",
+      "American lobster",
+      "spiny lobster",
+      "crayfish",
+      "hermit crab"
+   ],
+   "carnivore": [
+      "Chihuahua",
+      "Japanese spaniel",
+      "Maltese dog",
+      "Pekinese",
+      "Shih-Tzu",
+      "Blenheim spaniel",
+      "papillon",
+      "toy terrier"
+   ],
+   "insect": [
+      "tiger beetle",
+      "ladybug",
+      "ground beetle",
+      "long-horned beetle",
+      "leaf beetle",
+      "dung beetle",
+      "rhinoceros beetle",
+      "weevil"
+   ],
+   "ungulate": [
+      "sorrel",
+      "zebra",
+      "hog",
+      "wild boar",
+      "warthog",
+      "hartebeest",
+      "impala",
+      "gazelle"
+   ],
+   "primate": [
+      "guenon",
+      "patas",
+      "baboon",
+      "macaque",
+      "langur",
+      "colobus",
+      "proboscis monkey",
+      "marmoset"
+   ],
+   "bony fish": [
+      "tench",
+      "goldfish",
+      "barracouta",
+      "eel",
+      "coho",
+      "rock beauty",
+      "anemone fish",
+      "sturgeon"
+   ],
+   "barrier": [
+      "bannister",
+      "breakwater",
+      "chainlink fence",
+      "dam",
+      "picket fence",
+      "stone wall",
+      "turnstile",
+      "worm fence"
+   ],
+   "building": [
+      "bakery",
+      "barbershop",
+      "bookshop",
+      "butcher shop",
+      "confectionery",
+      "grocery store",
+      "shoe shop",
+      "tobacco shop"
+   ],
+   "electronic equipment": [
+      "cellular telephone",
+      "desktop computer",
+      "dial telephone",
+      "hand-held computer",
+      "iPod",
+      "laptop",
+      "notebook",
+      "pay-phone"
+   ],
+   "footwear": [
+      "Christmas stocking",
+      "clog",
+      "cowboy boot",
+      "knee pad",
+      "Loafer",
+      "running shoe",
+      "sandal",
+      "sock"
+   ],
+   "garment": [
+      "abaya",
+      "academic gown",
+      "cloak",
+      "fur coat",
+      "kimono",
+      "lab coat",
+      "poncho",
+      "trench coat"
+   ],
+   "headdress": [
+      "bathing cap",
+      "bearskin",
+      "bonnet",
+      "cowboy hat",
+      "crash helmet",
+      "mortarboard",
+      "shower cap",
+      "sombrero"
+   ],
+   "home appliance": [
+      "Crock Pot",
+      "dishwasher",
+      "electric fan",
+      "espresso maker",
+      "iron",
+      "lawn mower",
+      "microwave",
+      "refrigerator"
+   ],
+   "kitchen utensil": [
+      "caldron",
+      "can opener",
+      "coffeepot",
+      "corkscrew",
+      "Dutch oven",
+      "frying pan",
+      "teapot",
+      "wok"
+   ],
+   "measuring instrument": [
+      "analog clock",
+      "digital clock",
+      "digital watch",
+      "hourglass",
+      "parking meter",
+      "stopwatch",
+      "sundial",
+      "wall clock"
+   ],
+   "motor vehicle": [
+      "ambulance",
+      "beach wagon",
+      "cab",
+      "convertible",
+      "go-kart",
+      "golfcart",
+      "jeep",
+      "limousine"
+   ],
+   "musical instrument": [
+      "bassoon",
+      "cornet",
+      "flute",
+      "French horn",
+      "harmonica",
+      "oboe",
+      "ocarina",
+      "panpipe"
+   ],
+   "neckwear": [
+      "bib",
+      "bolo tie",
+      "bow tie",
+      "feather boa",
+      "neck brace",
+      "necklace",
+      "stole",
+      "Windsor tie"
+   ],
+   "sports equipment": [
+      "baseball",
+      "basketball",
+      "croquet ball",
+      "golf ball",
+      "ping-pong ball",
+      "punching bag",
+      "rugby ball",
+      "soccer ball"
+   ],
+   "tableware": [
+      "beer bottle",
+      "beer glass",
+      "goblet",
+      "mixing bowl",
+      "pop bottle",
+      "soup bowl",
+      "water bottle",
+      "wine bottle"
+   ],
+   "tool": [
+      "ballpoint",
+      "carpenter's kit",
+      "chain saw",
+      "combination lock",
+      "fountain pen",
+      "padlock",
+      "quill",
+      "rubber eraser"
+   ],
+   "vessel": [
+      "canoe",
+      "catamaran",
+      "fireboat",
+      "gondola",
+      "lifeboat",
+      "speedboat",
+      "trimaran",
+      "yawl"
+   ],
+   "dish": [
+      "consomme",
+      "hot pot",
+      "cheeseburger",
+      "hotdog",
+      "mashed potato",
+      "meat loaf",
+      "pizza",
+      "potpie"
+   ],
+   "vegetable": [
+      "head cabbage",
+      "broccoli",
+      "cauliflower",
+      "zucchini",
+      "spaghetti squash",
+      "acorn squash",
+      "butternut squash",
+      "cucumber"
+   ],
+   "fruit": [
+      "Granny Smith",
+      "strawberry",
+      "orange",
+      "lemon",
+      "fig",
+      "pineapple",
+      "banana",
+      "jackfruit"
+   ]
+}

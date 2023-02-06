@@ -1,0 +1,62 @@
+{
+   "annual crop land": [
+      "annual crop land",
+      "wheat annual crop land",
+      "barley annual crop land",
+      "oats annual crop land",
+      "rye annual crop land",
+      "corn annual crop land",
+      "soybeans annual crop land",
+      "cotton annual crop land"
+   ],
+   "forest": [
+      "forest",
+      "Coniferous forest",
+      "Deciduous forest",
+      "Tropical forest"
+   ],
+   "brushland or shrubland": [
+      "brushland or shrubland",
+      "brushland brushland or shrubland",
+      "shrubland brushland or shrubland"
+   ],
+   "highway or road": [
+      "highway or road",
+      "highway highway or road",
+      "road highway or road"
+   ],
+   "industrial buildings or commercial buildings": [
+      "industrial buildings or commercial buildings",
+      "warehouses industrial buildings or commercial buildings",
+      "office towers industrial buildings or commercial buildings",
+      "shopping malls industrial buildings or commercial buildings",
+      "factories industrial buildings or commercial buildings"
+   ],
+   "pasture land": [
+      "pasture land",
+      "meadow pasture land",
+      "prairie pasture land",
+      "rangeland pasture land"
+   ],
+   "permanent crop land": [
+      "permanent crop land",
+      "Permanent crop land includes land planted with crops that are not intended to be harvested and replanted",
+      "such as orchards and vineyards permanent crop land"
+   ],
+   "residential buildings or homes or apartments": [
+      "residential buildings or homes or apartments",
+      "residential buildings residential buildings or homes or apartments",
+      "homes residential buildings or homes or apartments",
+      "apartments residential buildings or homes or apartments"
+   ],
+   "river": [
+      "river",
+      "Amazon river",
+      "Colorado river",
+      "Nile river"
+   ],
+   "lake or sea": [
+      "lake or sea",
+      "Sea lake or sea"
+   ]
+}

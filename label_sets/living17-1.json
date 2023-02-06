@@ -1,0 +1,143 @@
+{
+   "salamander": [
+      "salamander",
+      "newt salamander",
+      "axolotl salamander",
+      "mudpuppy salamander",
+      "waterdog salamander"
+   ],
+   "turtle": [
+      "turtle",
+      "snapping turtle",
+      "box turtle",
+      "redeared slider turtle",
+      "painted turtle"
+   ],
+   "lizard": [
+      "lizard",
+      "Iguanas lizard",
+      "geckos lizard",
+      "skinks lizard",
+      "monitor lizards",
+      "anole lizards",
+      "Gila monsters lizard",
+      "beaded lizards",
+      "Komodo dragons lizard"
+   ],
+   "snake": [
+      "snake",
+      "Cobra snake",
+      "viper snake",
+      "anaconda snake",
+      "python snake"
+   ],
+   "spider": [
+      "spider"
+   ],
+   "grouse": [
+      "grouse",
+      "ptarmigan grouse",
+      "willow grouse",
+      "rock grouse",
+      "spruce grouse",
+      "and whitetailed grouse"
+   ],
+   "parrot": [
+      "parrot",
+      "Macaw parrot",
+      "cockatiel parrot",
+      "lovebird parrot",
+      "budgerigar parrot",
+      "Amazon parrot",
+      "African grey parrot",
+      "Eclectus parrot",
+      "lorikeet parrot",
+      "parakeet parrot"
+   ],
+   "crab": [
+      "crab",
+      "hardshell crab",
+      "softshell crab"
+   ],
+   "dog": [
+      "dog",
+      "Dalmatian dog",
+      "Cocker Spaniel dog",
+      "Labrador Retriever dog",
+      "Beagle dog",
+      "Boston Terrier dog"
+   ],
+   "wolf": [
+      "wolf",
+      "carnivore wolf",
+      "predator wolf",
+      "apex predator wolf",
+      "Canis lupus wolf"
+   ],
+   "fox": [
+      "fox",
+      "red fox",
+      "arctic fox",
+      "grey fox",
+      "kit fox",
+      "swift fox",
+      "fennec fox"
+   ],
+   "domestic cat": [
+      "domestic cat",
+      "calico domestic cat",
+      "tabby domestic cat",
+      "Siamese domestic cat",
+      "Maine Coon domestic cat",
+      "Persian domestic cat",
+      "Sphynx domestic cat"
+   ],
+   "bear": [
+      "bear",
+      "polar bear",
+      "grizzly bear",
+      "black bear",
+      "Kodiak bear",
+      "sun bear",
+      "sloth bear",
+      "panda bear",
+      "spectacled bear"
+   ],
+   "beetle": [
+      "ladybug beetle",
+      "firefly beetle",
+      "beetle"
+   ],
+   "butterfly": [
+      "butterfly",
+      "Monarch butterfly",
+      "Swallowtail butterfly",
+      "Blue Morpho butterfly",
+      "Peacock butterfly",
+      "Moth butterfly"
+   ],
+   "ape": [
+      "ape",
+      "chimpanzee ape",
+      "gorilla ape",
+      "orangutan ape"
+   ],
+   "monkey": [
+      "monkey",
+      "Ape monkey",
+      "Baboon monkey",
+      "Capuchin monkey",
+      "Colobus monkey",
+      "Gorilla monkey",
+      "Langur monkey",
+      "Lemur monkey",
+      "Macaque monkey",
+      "Mandrill monkey",
+      "Orangutan monkey",
+      "Patas monkey",
+      "Squirrel monkey",
+      "Tamarin monkey",
+      "Tarsier monkey",
+      "Uakari monkey"
+   ]
+}

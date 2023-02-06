@@ -1,0 +1,468 @@
+{
+   "apple": [
+      "apple",
+      "red apple",
+      "green apple",
+      "yellow apple",
+      "pink apple",
+      "purple apple"
+   ],
+   "apricot": [
+      "apricot",
+      "peach apricot",
+      "nectarine apricot",
+      "plum apricot",
+      "cherry apricot"
+   ],
+   "avocado": [
+      "avocado",
+      "Mexican avocado",
+      "Hass avocado",
+      "Reed avocado",
+      "Fuerte avocado",
+      "Pinkerton avocado"
+   ],
+   "banana": [
+      "banana",
+      "Cavendish banana",
+      "Musa Acuminata banana",
+      "plantain banana",
+      "red banana",
+      "silver banana"
+   ],
+   "beetroot": [
+      "beetroot",
+      "Beet beetroot",
+      "Bulls Blood Beet beetroot",
+      "Candy Stripe Beet beetroot",
+      "Chioggia Beet beetroot",
+      "Cylindrical Beet beetroot"
+   ],
+   "blueberry": [
+      "blueberry",
+      "bilberry blueberry",
+      "whortleberry blueberry",
+      "huckleberry blueberry",
+      "crowberry blueberry"
+   ],
+   "cactus fruit": [
+      "cactus fruit",
+      "prickly pear cactus fruit",
+      "saguaro cactus fruit",
+      "dragon fruit cactus fruit",
+      "pitaya cactus fruit",
+      "cactus fig cactus fruit"
+   ],
+   "cauliflower": [
+      "cauliflower",
+      "white cauliflower",
+      "green cauliflower",
+      "purple cauliflower",
+      "yellow cauliflower",
+      "orange cauliflower"
+   ],
+   "cherry": [
+      "cherry",
+      "Cherry",
+      "Morello cherry",
+      "Maraschino cherry",
+      "Black Cherry",
+      "Rainier cherry"
+   ],
+   "cocos": [
+      "cocos",
+      "Coconut cocos",
+      "Coconut water cocos",
+      "Coconut oil cocos",
+      "Desiccated coconut cocos",
+      "Coconut milk cocos"
+   ],
+   "corn": [
+      "corn",
+      "field corn",
+      "sweet corn",
+      "popcorn",
+      "dent corn",
+      "flint corn"
+   ],
+   "corn husk": [
+      "corn husk",
+      "corn cob corn husk",
+      "corn stalk corn husk",
+      "corn leaf corn husk",
+      "corn tassel corn husk"
+   ],
+   "cucumber": [
+      "cucumber",
+      "pickling cucumber",
+      "slicing cucumber",
+      "dicing cucumber",
+      "ornamental cucumber",
+      "lemon cucumber"
+   ],
+   "date": [
+      "date",
+      "January date",
+      "February date",
+      "March date",
+      "April date",
+      "May date"
+   ],
+   "dragon fruit": [
+      "dragon fruit",
+      "Red Dragon Fruit",
+      "Yellow Dragon Fruit",
+      "Black Dragon Fruit",
+      "Blue Dragon Fruit",
+      "Purple Dragon Fruit"
+   ],
+   "eggplant": [
+      "eggplant",
+      "Solanum melongena eggplant",
+      "Bharta eggplant",
+      "Gaji Patal eggplant",
+      "Guinea squash eggplant",
+      "Italian eggplant"
+   ],
+   "fig": [
+      "fig",
+      "fig tree",
+      "banyan fig",
+      "rubber fig",
+      "common fig"
+   ],
+   "gauva": [
+      "gauva",
+      "guava gauva",
+      "gooava gauva",
+      "guuva gauva",
+      "gaava gauva"
+   ],
+   "ginger root": [
+      "ginger root",
+      "dried ginger root",
+      "pickled ginger root",
+      "powdered ginger root",
+      "grated ginger root",
+      "candied ginger root"
+   ],
+   "grape": [
+      "grape",
+      "Cabernet Sauvignon grape",
+      "Merlot grape",
+      "Chardonnay grape",
+      "Sauvignon Blanc grape",
+      "Pinot Noir grape"
+   ],
+   "grapefruit": [
+      "grapefruit",
+      "Citrus x paradisi grapefruit",
+      "Duncan grapefruit",
+      "Marsh grapefruit",
+      "Ruby Red grapefruit",
+      "Star Ruby grapefruit"
+   ],
+   "groundcherry": [
+      "groundcherry",
+      "strawberry groundcherry",
+      "grape groundcherry",
+      "raspberry groundcherry",
+      "blackberry groundcherry",
+      "blueberry groundcherry"
+   ],
+   "huckleberry": [
+      "huckleberry",
+      "Blueberry huckleberry",
+      "cranberry huckleberry",
+      "raspberry huckleberry",
+      "strawberry huckleberry",
+      "blackberry huckleberry"
+   ],
+   "kiwi": [
+      "kiwi",
+      "Tropical kiwi",
+      "Hayward kiwi",
+      "Chinese kiwi",
+      "Arctic kiwi",
+      "Actinidia arguta kiwi"
+   ],
+   "kohlrabi": [
+      "kohlrabi",
+      "cabbage kohlrabi",
+      "Brussels sprouts kohlrabi",
+      "kale kohlrabi",
+      "collards kohlrabi"
+   ],
+   "kumquat": [
+      "kumquat",
+      "kiwi kumquat",
+      "grapefruit kumquat",
+      "orange kumquat",
+      "lemon kumquat",
+      "lime kumquat"
+   ],
+   "lemon": [
+      "lemon",
+      "sour lemon",
+      "juicy lemon",
+      "acidic lemon",
+      "fragrant lemon",
+      "yellow lemon"
+   ],
+   "lime": [
+      "lime",
+      "Sour lime",
+      "Sweet lime",
+      "Key lime",
+      "Persian lime",
+      "Tahiti lime"
+   ],
+   "lychee": [
+      "lychee",
+      "fruit lychee",
+      "tree lychee",
+      "food lychee",
+      "Lychee",
+      "litchi lychee"
+   ],
+   "mango": [
+      "mango",
+      "fruit mango",
+      "yellow mango",
+      "sweet mango",
+      "juicy mango",
+      "tropical mango"
+   ],
+   "mangostan": [
+      "mangostan",
+      "fruit mangostan",
+      "tree mangostan",
+      "food mangostan",
+      "tropical mangostan",
+      "purple mangostan"
+   ],
+   "melon": [
+      "melon",
+      "Cantaloupe melon",
+      "honeydew melon",
+      "watermelon",
+      "muskmelon",
+      "Crenshaw melon"
+   ],
+   "mulberry": [
+      "mulberry",
+      "Eureka mulberry",
+      "Polar mulberry",
+      "White mulberry",
+      "Che mulberry",
+      "Evergreen mulberry"
+   ],
+   "nectarine": [
+      "peach nectarine",
+      "nectarine",
+      "plum nectarine",
+      "apricot nectarine",
+      "cherry nectarine"
+   ],
+   "nut": [
+      "nut",
+      "Almond nut",
+      "Brazil nut",
+      "cashew nut",
+      "chestnut",
+      "hazelnut",
+      "macadamia nut",
+      "pecan nut",
+      "pine nut",
+      "pistachio nut",
+      "walnut"
+   ],
+   "onion": [
+      "onion",
+      "white onion",
+      "red onion",
+      "yellow onion",
+      "sweet onion",
+      "green onion"
+   ],
+   "orange": [
+      "orange",
+      "Citrus orange",
+      "tangerine orange",
+      "blood orange",
+      "Valencia orange",
+      "navel orange"
+   ],
+   "papaya": [
+      "papaya",
+      "Fruit papaya",
+      "Vegetable papaya",
+      "Tree papaya",
+      "Plant papaya",
+      "Flower papaya"
+   ],
+   "passion fruit": [
+      "passion fruit",
+      "Passion fruit",
+      "orange passion fruit",
+      "lemon passion fruit",
+      "grapefruit passion fruit",
+      "lime passion fruit"
+   ],
+   "peach": [
+      "peach",
+      "Fuzzy peach",
+      "yellow peach",
+      "sweet peach",
+      "fragrant peach",
+      "Juicy peach"
+   ],
+   "pear": [
+      "pear",
+      "Bosc pear",
+      "Bartlett pear",
+      "Anjou pear",
+      "Asian pear",
+      "Seckel pear"
+   ],
+   "pepino": [
+      "pepino",
+      "pepino",
+      "pepino",
+      "pepino",
+      "pepino"
+   ],
+   "pepper": [
+      "pepper",
+      "bell pepper",
+      "cayenne pepper",
+      "chili pepper",
+      "paprika pepper",
+      "jalapeo pepper"
+   ],
+   "persimmon": [
+      "persimmon",
+      "Fuyu persimmon",
+      "Hachiya persimmon",
+      "Iyo persimmon",
+      "Maru persimmon",
+      "Sharon persimmon"
+   ],
+   "pineapple": [
+      "pineapple",
+      "Cayenne pineapple",
+      "Red pineapple",
+      "Queen pineapple",
+      "Sugarloaf pineapple",
+      "Smooth Cayenne pineapple"
+   ],
+   "plum": [
+      "plum",
+      "Blue plum",
+      "Cherry plum",
+      "Damson plum",
+      "Greengage plum",
+      "Victoria plum"
+   ],
+   "pomegranate": [
+      "pomegranate",
+      "fruit pomegranate",
+      "juice pomegranate",
+      "seeds pomegranate",
+      "oil pomegranate",
+      "wine pomegranate"
+   ],
+   "pomelo": [
+      "pomelo",
+      "Citrus maxima pomelo",
+      "Citrus medica pomelo",
+      "Citrus nobilis pomelo",
+      "Citrus reticulata pomelo",
+      "Citrus sinensis pomelo"
+   ],
+   "potato": [
+      "potato",
+      "white potato",
+      "red potato",
+      "russet potato",
+      "sweet potato",
+      "yam potato"
+   ],
+   "quince": [
+      "quince",
+      "fruit quince",
+      "tree quince",
+      "plant quince",
+      "organic quince",
+      "produce quince"
+   ],
+   "rambutan": [
+      "rambutan",
+      "tangerine rambutan",
+      "grapefruit rambutan",
+      "orange rambutan",
+      "lemon rambutan",
+      "lime rambutan"
+   ],
+   "raspberry": [
+      "raspberry",
+      "strawberry raspberry",
+      "blackberry raspberry",
+      "grape raspberry",
+      "currant raspberry",
+      "blueberry raspberry"
+   ],
+   "redcurrant": [
+      "redcurrant",
+      "strawberry redcurrant",
+      "raspberry redcurrant",
+      "blackberry redcurrant",
+      "blueberry redcurrant",
+      "cranberry redcurrant"
+   ],
+   "snake fruit": [
+      "snake fruit",
+      "ackee snake fruit",
+      "atemoya snake fruit",
+      "cherimoya snake fruit",
+      "custard apple snake fruit",
+      "dragon fruit snake fruit"
+   ],
+   "star fruit": [
+      "carambola star fruit",
+      "star apple star fruit",
+      "star grape star fruit",
+      "star berry star fruit",
+      "star fruit"
+   ],
+   "strawberry": [
+      "strawberry",
+      "blueberry strawberry",
+      "raspberry strawberry",
+      "blackberry strawberry",
+      "cranberry strawberry"
+   ],
+   "tamarillo": [
+      "tamarillo",
+      "fruit tamarillo",
+      "tree tamarillo",
+      "plant tamarillo",
+      "food tamarillo",
+      "vegetable tamarillo"
+   ],
+   "tangelo": [
+      "tangelo",
+      "tangelo",
+      "tangelo",
+      "tangelo",
+      "tangelo"
+   ],
+   "tomato": [
+      "tomato",
+      "Cherry tomato",
+      "Beefsteak tomato",
+      "Heirloom tomato",
+      "Plum tomato",
+      "Roma tomato"
+   ]
+}

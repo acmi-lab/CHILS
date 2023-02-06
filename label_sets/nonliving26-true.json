@@ -1,0 +1,158 @@
+{
+   "bag": [
+      "backpack",
+      "mailbag",
+      "plastic bag",
+      "purse"
+   ],
+   "ball": [
+      "baseball",
+      "basketball",
+      "croquet ball",
+      "golf ball"
+   ],
+   "boat": [
+      "canoe",
+      "catamaran",
+      "fireboat",
+      "trimaran"
+   ],
+   "body armor": [
+      "breastplate",
+      "bulletproof vest",
+      "chain mail",
+      "cuirass"
+   ],
+   "bottle": [
+      "beer bottle",
+      "pop bottle",
+      "water bottle",
+      "wine bottle"
+   ],
+   "bus": [
+      "minibus",
+      "recreational vehicle",
+      "school bus",
+      "trolleybus"
+   ],
+   "car": [
+      "ambulance",
+      "beach wagon",
+      "cab",
+      "convertible"
+   ],
+   "chair": [
+      "barber chair",
+      "folding chair",
+      "rocking chair",
+      "throne"
+   ],
+   "coat": [
+      "abaya",
+      "academic gown",
+      "cloak",
+      "fur coat"
+   ],
+   "digital computer": [
+      "desktop computer",
+      "hand-held computer",
+      "laptop",
+      "notebook"
+   ],
+   "dwelling": [
+      "birdhouse",
+      "castle",
+      "cliff dwelling",
+      "mobile home"
+   ],
+   "fence": [
+      "chainlink fence",
+      "picket fence",
+      "stone wall",
+      "worm fence"
+   ],
+   "hat": [
+      "bearskin",
+      "bonnet",
+      "cowboy hat",
+      "sombrero"
+   ],
+   "keyboard instrument": [
+      "accordion",
+      "grand piano",
+      "organ",
+      "upright"
+   ],
+   "mercantile establishment": [
+      "bakery",
+      "barbershop",
+      "bookshop",
+      "butcher shop"
+   ],
+   "outbuilding": [
+      "apiary",
+      "barn",
+      "boathouse",
+      "greenhouse"
+   ],
+   "percussion instrument": [
+      "chime",
+      "drum",
+      "gong",
+      "maraca"
+   ],
+   "pot": [
+      "caldron",
+      "coffeepot",
+      "Dutch oven",
+      "teapot"
+   ],
+   "roof": [
+      "dome",
+      "thatch",
+      "tile roof",
+      "vault"
+   ],
+   "ship": [
+      "container ship",
+      "liner",
+      "pirate",
+      "schooner"
+   ],
+   "skirt": [
+      "hoopskirt",
+      "miniskirt",
+      "overskirt",
+      "sarong"
+   ],
+   "stringed instrument": [
+      "acoustic guitar",
+      "banjo",
+      "cello",
+      "electric guitar"
+   ],
+   "timepiece": [
+      "analog clock",
+      "digital clock",
+      "parking meter",
+      "wall clock"
+   ],
+   "truck": [
+      "fire engine",
+      "forklift",
+      "garbage truck",
+      "moving van"
+   ],
+   "wind instrument": [
+      "bassoon",
+      "cornet",
+      "flute",
+      "French horn"
+   ],
+   "squash": [
+      "zucchini",
+      "spaghetti squash",
+      "acorn squash",
+      "butternut squash"
+   ]
+}

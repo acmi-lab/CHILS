@@ -1,0 +1,24 @@
+# @package _global_
+defaults:
+  - trainer: default.yaml
+  - datamodule: data.yaml
+  - models: evaluate.yaml
+  - logger: wandb.yaml
+  - hydra: default.yaml
+  - _self_
+
+work_dir: ${hydra:runtime.cwd}
+data_dir: ${data_loc}
+log_dir: ${work_dir}/${log_loc}
+
+# path to folder with data
+data_loc: "INSERT PATH HERE"
+log_loc: logs
+
+# Additional hyperparams
+seed: 42
+source_dataset: "fashion-mnist"
+arch: "ClipViTL14"
+pretrained: True
+base_task: "fashion-mnist"
+num_classes: 1000

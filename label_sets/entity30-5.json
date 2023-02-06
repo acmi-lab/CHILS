@@ -1,0 +1,242 @@
+{
+   "serpentes": [
+      "serpentes",
+      "Cobras serpentes",
+      "adders serpentes",
+      "anacondas serpentes",
+      "boas serpentes",
+      "vipers serpentes"
+   ],
+   "passerine": [
+      "passerine",
+      "sparrow passerine",
+      "finch passerine",
+      "thrush passerine",
+      "warbler passerine",
+      "robin passerine"
+   ],
+   "saurian": [
+      "saurian",
+      "Brontosaurus saurian",
+      "Stegosaurus saurian",
+      "Tyrannosaurus saurian",
+      "Velociraptor saurian",
+      "Deinonychus saurian"
+   ],
+   "arachnid": [
+      "arachnid",
+      "spider arachnid",
+      "mite arachnid",
+      "daddy longlegs arachnid",
+      "harvestman arachnid",
+      "tick arachnid"
+   ],
+   "aquatic bird": [
+      "aquatic bird",
+      "Pelican aquatic bird",
+      "puffin aquatic bird",
+      "albatross aquatic bird",
+      "penguin aquatic bird",
+      "seagull aquatic bird"
+   ],
+   "crustacean": [
+      "crustacean",
+      "shrimp crustacean",
+      "crab crustacean",
+      "lobster crustacean",
+      "barnacle crustacean",
+      "crayfish crustacean"
+   ],
+   "carnivore": [
+      "carnivore",
+      "lion carnivore",
+      "tiger carnivore",
+      "jaguar carnivore",
+      "leopard carnivore",
+      "cheetah carnivore"
+   ],
+   "insect": [
+      "insect",
+      "butterfly insect",
+      "dragonfly insect",
+      "firefly insect",
+      "grasshopper insect",
+      "ladybug insect"
+   ],
+   "ungulate": [
+      "ungulate",
+      "deer ungulate",
+      "elk ungulate",
+      "moose ungulate",
+      "bison ungulate",
+      "buffalo ungulate"
+   ],
+   "primate": [
+      "primate",
+      "Chimpanzee primate",
+      "Gorilla primate",
+      "Orangutan primate",
+      "Bonobo primate",
+      "Macaque primate"
+   ],
+   "bony fish": [
+      "bony fish",
+      "trout bony fish",
+      "salmon bony fish",
+      "catfish bony fish",
+      "pike bony fish",
+      "perch bony fish"
+   ],
+   "barrier": [
+      "barrier",
+      "fence barrier",
+      "wall barrier",
+      "hedge barrier",
+      "gate barrier",
+      "door barrier"
+   ],
+   "building": [
+      "building",
+      "skyscraper building",
+      "office building",
+      "residential building",
+      "church building",
+      "school building"
+   ],
+   "electronic equipment": [
+      "electronic equipment",
+      "television electronic equipment",
+      "computer electronic equipment",
+      "laptop electronic equipment",
+      "cell phone electronic equipment",
+      "tablet electronic equipment"
+   ],
+   "footwear": [
+      "footwear",
+      "sandals footwear",
+      "clogs footwear",
+      "espadrilles footwear",
+      "sneakers footwear",
+      "loafers footwear"
+   ],
+   "garment": [
+      "garment",
+      "Tshirt garment",
+      "dress garment",
+      "skirt garment",
+      "blouse garment",
+      "pants garment"
+   ],
+   "headdress": [
+      "headdress",
+      "beehive headdress",
+      "baseball cap headdress",
+      "beanie headdress",
+      "bicorne headdress",
+      "boater headdress"
+   ],
+   "home appliance": [
+      "home appliance",
+      "television home appliance",
+      "microwave home appliance",
+      "oven home appliance",
+      "dishwasher home appliance",
+      "washing machine home appliance"
+   ],
+   "kitchen utensil": [
+      "kitchen utensil",
+      "pot kitchen utensil",
+      "pan kitchen utensil",
+      "knife kitchen utensil",
+      "fork kitchen utensil",
+      "spoon kitchen utensil"
+   ],
+   "measuring instrument": [
+      "measuring instrument",
+      "ruler measuring instrument",
+      "compass measuring instrument",
+      "protractor measuring instrument",
+      "tape measure measuring instrument",
+      "level measuring instrument"
+   ],
+   "motor vehicle": [
+      "motor vehicle",
+      "car motor vehicle",
+      "truck motor vehicle",
+      "van motor vehicle",
+      "SUV motor vehicle",
+      "motorcycle motor vehicle"
+   ],
+   "musical instrument": [
+      "musical instrument",
+      "guitar musical instrument",
+      "piano musical instrument",
+      "trumpet musical instrument",
+      "trombone musical instrument",
+      "drums musical instrument"
+   ],
+   "neckwear": [
+      "neckwear",
+      "Necktie neckwear",
+      "Bandana neckwear",
+      "Collar neckwear",
+      "Choker neckwear",
+      "Scarf neckwear"
+   ],
+   "sports equipment": [
+      "sports equipment",
+      "Baseball equipment sports equipment",
+      "basketball equipment sports equipment",
+      "football equipment sports equipment",
+      "golf equipment sports equipment",
+      "hockey equipment sports equipment"
+   ],
+   "tableware": [
+      "tableware",
+      "plate tableware",
+      "bowl tableware",
+      "cup tableware",
+      "fork tableware",
+      "knife tableware"
+   ],
+   "tool": [
+      "tool",
+      "hammer tool",
+      "screwdriver tool",
+      "wrench tool",
+      "saw tool",
+      "drill tool"
+   ],
+   "vessel": [
+      "vessel",
+      "yacht vessel",
+      "freighter vessel",
+      "tanker vessel",
+      "canoe vessel",
+      "sailboat vessel"
+   ],
+   "dish": [
+      "dish",
+      "stew dish",
+      "casserole dish",
+      "soup dish",
+      "chili dish",
+      "pot pie dish"
+   ],
+   "vegetable": [
+      "vegetable",
+      "potato vegetable",
+      "carrot vegetable",
+      "onion vegetable",
+      "kale vegetable",
+      "cabbage vegetable"
+   ],
+   "fruit": [
+      "fruit",
+      "apple fruit",
+      "banana fruit",
+      "mango fruit",
+      "orange fruit",
+      "grapefruit"
+   ]
+}

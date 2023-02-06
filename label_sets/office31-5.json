@@ -1,0 +1,245 @@
+{
+   "back pack": [
+      "back pack",
+      "book bag back pack",
+      "rucksack back pack",
+      "day pack back pack",
+      "knapsack back pack",
+      "haversack back pack"
+   ],
+   "bike": [
+      "bike",
+      "Mountain bike",
+      "racing bike",
+      "city bike",
+      "folding bike",
+      "cargo bike"
+   ],
+   "bike helmet": [
+      "bike helmet",
+      "road bike helmet",
+      "racing bike helmet",
+      "mountain bike helmet",
+      "bmx bike helmet",
+      "full face bike helmet"
+   ],
+   "bookcase": [
+      "bookcase",
+      "bookshelf bookcase",
+      "library bookcase",
+      "bureau bookcase",
+      "cabinet bookcase",
+      "rack bookcase"
+   ],
+   "bottle": [
+      "bottle",
+      "water bottle",
+      "milk bottle",
+      "baby bottle",
+      "soda bottle",
+      "beer bottle"
+   ],
+   "calculator": [
+      "calculator",
+      "scientific calculator",
+      "graphing calculator",
+      "financial calculator",
+      "construction calculator",
+      "pocket calculator"
+   ],
+   "desk chair": [
+      "desk chair",
+      "computer chair desk chair",
+      "executive chair desk chair",
+      "ergonomic chair desk chair",
+      "task chair desk chair",
+      "side chair desk chair"
+   ],
+   "desk lamp": [
+      "desk lamp",
+      "table lamp desk lamp",
+      "floor lamp desk lamp",
+      "bankers lamp desk lamp",
+      "Tiffany lamp desk lamp",
+      "torchiere lamp desk lamp"
+   ],
+   "desktop computer": [
+      "desktop computer",
+      "Dell desktop computer",
+      "HP desktop computer",
+      "Lenovo desktop computer",
+      "Asus desktop computer",
+      "Acer desktop computer"
+   ],
+   "file cabinet": [
+      "file cabinet",
+      "wooden file cabinet",
+      "metal file cabinet",
+      "plastic file cabinet",
+      "cardboard file cabinet",
+      "glass file cabinet"
+   ],
+   "headphones": [
+      "headphones",
+      "Inear headphones",
+      "onear headphones",
+      "overear headphones",
+      "noisecancelling headphones",
+      "wireless headphones"
+   ],
+   "keyboard": [
+      "keyboard",
+      "QWERTY keyboard",
+      "laptop keyboard",
+      "ergonomic keyboard",
+      "mechanical keyboard",
+      "wireless keyboard"
+   ],
+   "laptop computer": [
+      "laptop computer",
+      "Dell laptop computer",
+      "Lenovo laptop computer",
+      "MacBook laptop computer",
+      "HP laptop computer",
+      "Asus laptop computer"
+   ],
+   "letter tray": [
+      "letter tray",
+      "Wooden letter tray",
+      "plastic letter tray",
+      "metal letter tray",
+      "cardboard letter tray",
+      "glass letter tray"
+   ],
+   "mobile phone": [
+      "mobile phone",
+      "Nokia mobile phone",
+      "Motorola mobile phone",
+      "Siemens mobile phone",
+      "Sony Ericsson mobile phone",
+      "Samsung mobile phone"
+   ],
+   "monitor": [
+      "monitor",
+      "LCD monitor",
+      "LED monitor",
+      "CRT monitor",
+      "Plasma monitor",
+      "Touchscreen monitor"
+   ],
+   "mouse": [
+      "mouse",
+      "optical mouse",
+      "wireless mouse",
+      "wired mouse",
+      "ergonomic mouse",
+      "gaming mouse"
+   ],
+   "mug": [
+      "mug",
+      "coffee mug",
+      "tea mug",
+      "beer mug",
+      "travel mug",
+      "cookie mug"
+   ],
+   "paper notebook": [
+      "paper notebook",
+      "spiral notebook paper notebook",
+      "composition notebook paper notebook",
+      "notebook with pockets paper notebook",
+      "lined notebook paper notebook",
+      "graph paper notebook"
+   ],
+   "pen": [
+      "pen",
+      "ballpoint pen",
+      "rollerball pen",
+      "fountain pen",
+      "gel pen",
+      "felt tip pen"
+   ],
+   "phone": [
+      "phone",
+      "Iphone",
+      "Samsung phone",
+      "Android phone",
+      "Nokia phone",
+      "Lenovo phone"
+   ],
+   "printer": [
+      "printer",
+      "laser printer",
+      "inkjet printer",
+      "dot matrix printer",
+      "thermal printer",
+      "D printer"
+   ],
+   "projector": [
+      "projector",
+      "DLP projector",
+      "LCD projector",
+      "LCoS projector",
+      "LED projector",
+      "DILA projector"
+   ],
+   "punchers": [
+      "punchers",
+      "boxers punchers",
+      "kickboxers punchers",
+      "karatekas punchers",
+      "taekwondoists punchers",
+      "Muay Thai fighters punchers"
+   ],
+   "ring binder": [
+      "ring binder",
+      "Three ring binder  Dring binder  Oring binder  Ring binder clip  Ring binder mechanism"
+   ],
+   "ruler": [
+      "ruler",
+      "Tsquare ruler",
+      "set square ruler",
+      "French curve ruler",
+      "compass ruler",
+      "tri square ruler"
+   ],
+   "scissors": [
+      "scissors",
+      "nail scissors",
+      "hair scissors",
+      "fabric scissors",
+      "paper scissors"
+   ],
+   "speaker": [
+      "speaker",
+      "Tower speaker",
+      "Bookshelf speaker",
+      "Inwall speaker",
+      "Inceiling speaker",
+      "Portable speaker"
+   ],
+   "stapler": [
+      "stapler",
+      "Swingline stapler",
+      "Bostitch stapler",
+      "Arrow stapler",
+      "Rapid stapler",
+      "Perfection stapler"
+   ],
+   "tape dispenser": [
+      "tape dispenser",
+      "Adhesive tape dispenser",
+      "cellophane tape dispenser",
+      "duct tape dispenser",
+      "electrical tape dispenser",
+      "masking tape dispenser"
+   ],
+   "trash can": [
+      "trash can",
+      "waste bin trash can",
+      "rubbish bin trash can",
+      "garbage can trash can",
+      "trash barrel trash can",
+      "trash receptacle trash can"
+   ]
+}

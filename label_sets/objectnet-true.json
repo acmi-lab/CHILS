@@ -1,0 +1,118 @@
+{
+   "garment": [
+      "Dress",
+      "Jeans",
+      "Skirt",
+      "Suit jacket",
+      "Sweater",
+      "Swimming trunks",
+      "T-shirt"
+   ],
+   "soft furnishings": [
+      "Bath towel",
+      "Desk lamp",
+      "Dishrag or hand towel",
+      "Doormat",
+      "Lampshade",
+      "Paper towel",
+      "Pillow"
+   ],
+   "accessory": [
+      "Backpack",
+      "Dress shoe (men)",
+      "Helmet",
+      "Necklace",
+      "Plastic bag",
+      "Running shoe",
+      "Sandal",
+      "Sock",
+      "Sunglasses",
+      "Tie",
+      "Umbrella",
+      "Winter glove"
+   ],
+   "appliance": [
+      "Coffee/French press",
+      "Fan",
+      "Hair dryer",
+      "Iron (for clothes)",
+      "Microwave",
+      "Portable heater",
+      "Toaster",
+      "Vacuum cleaner"
+   ],
+   "equipment": [
+      "Cellphone",
+      "Computer mouse",
+      "Keyboard",
+      "Laptop (open)",
+      "Monitor",
+      "Printer",
+      "Remote control",
+      "Speaker",
+      "Still Camera",
+      "TV",
+      "Tennis racket",
+      "Weight (exercise)"
+   ],
+   "furniture": [
+      "Bench",
+      "Chair"
+   ],
+   "instrument": [
+      "Alarm clock",
+      "Beer bottle",
+      "Butcher's knife",
+      "Can opener",
+      "Combination lock",
+      "Drill",
+      "Drying rack for plates",
+      "Frying pan",
+      "Hammer",
+      "Ladle",
+      "Lighter",
+      "Measuring cup",
+      "Mixing / Salad Bowl",
+      "Mug",
+      "Nail (fastener)",
+      "Padlock",
+      "Paintbrush",
+      "Pen",
+      "Plate",
+      "Plunger",
+      "Pop can",
+      "Ruler",
+      "Safety pin",
+      "Salt shaker",
+      "Screw",
+      "Shovel",
+      "Soup Bowl",
+      "Spatula",
+      "Teapot",
+      "Tray",
+      "Watch",
+      "Water bottle",
+      "Weight scale",
+      "Wine bottle",
+      "Wok"
+   ],
+   "toiletry": [
+      "Band Aid",
+      "Lipstick"
+   ],
+   "wheeled vehicle": [
+      "Basket",
+      "Bicycle"
+   ],
+   "cooked food": [
+      "Bread loaf"
+   ],
+   "produce": [
+      "Banana",
+      "Lemon",
+      "Orange"
+   ],
+   "beverage": [
+      "Drinking Cup"
+   ]
+}

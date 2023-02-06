@@ -1,0 +1,102 @@
+{
+   "bedroom": [
+      "bedroom",
+      "bed bedroom",
+      "nightstand bedroom",
+      "dresser bedroom",
+      "chest bedroom",
+      "headboard bedroom",
+      "footboard bedroom",
+      "mattress bedroom",
+      "box spring bedroom"
+   ],
+   "bridge": [
+      "bridge",
+      "arch bridge",
+      "beam bridge",
+      "cantilever bridge",
+      "suspension bridge",
+      "truss bridge"
+   ],
+   "church outdoor": [
+      "church outdoor",
+      "cathedral church outdoor",
+      "chapel church outdoor",
+      "oratory church outdoor",
+      "basilica church outdoor",
+      "pilgrimage church church outdoor",
+      "parish church church outdoor",
+      "missionary church church outdoor",
+      "monastic church church outdoor",
+      "collegiate church church outdoor",
+      "cathedral church church outdoor"
+   ],
+   "classroom": [
+      "classroom",
+      "books classroom",
+      "pencils classroom",
+      "teachers classroom",
+      "students classroom",
+      "desks classroom",
+      "chalk boards classroom"
+   ],
+   "conference room": [
+      "conference room",
+      "auditorium conference room",
+      "amphitheater conference room",
+      "forum conference room",
+      "rotunda conference room",
+      "atrium conference room"
+   ],
+   "dining room": [
+      "dining room",
+      "Table dining room",
+      "Chairs dining room",
+      "China Cabinet dining room",
+      "Sideboard dining room",
+      "Buffet dining room",
+      "Hutch dining room",
+      "Credenza dining room",
+      "Server dining room"
+   ],
+   "kitchen": [
+      "kitchen",
+      "stove kitchen",
+      "sink kitchen",
+      "fridge kitchen",
+      "dishwasher kitchen",
+      "oven kitchen",
+      "microwave kitchen",
+      "counter kitchen",
+      "cupboards kitchen",
+      "table kitchen",
+      "chairs kitchen",
+      "window kitchen"
+   ],
+   "living room": [
+      "living room",
+      "table living room",
+      "sofa living room",
+      "rug living room",
+      "lamp living room",
+      "painting living room",
+      "clock living room",
+      "plant living room"
+   ],
+   "restaurant": [
+      "restaurant",
+      "Thai restaurant",
+      "Chinese restaurant",
+      "Italian restaurant",
+      "American restaurant",
+      "Mexican restaurant",
+      "Japanese restaurant"
+   ],
+   "tower": [
+      "skyscraper tower",
+      "tower",
+      "minaret tower",
+      "belfry tower",
+      "spire tower"
+   ]
+}

@@ -1,0 +1,511 @@
+{
+   "Alarm Clock": [
+      "Alarm Clock",
+      "alarm clock",
+      "digital alarm clock",
+      "battery operated alarm clock",
+      "travel alarm clock",
+      "wind up alarm clock"
+   ],
+   "Backpack": [
+      "Backpack",
+      "sport Backpack",
+      "school Backpack",
+      "travel Backpack",
+      "laptop Backpack",
+      "hiking Backpack"
+   ],
+   "Batteries": [
+      "Batteries",
+      "rechargeable Batteries",
+      "hearing aid Batteries",
+      "watch Batteries",
+      "flashlight Batteries",
+      "coinrechargeable Batteries",
+      "hearing aid Batteries",
+      "watch Batteries",
+      "flashlight Batteries",
+      "coin Batteries"
+   ],
+   "Bed": [
+      "Bed",
+      "Water bed",
+      "air bed",
+      "futon Bed",
+      "Murphy bed",
+      "day bed"
+   ],
+   "Bike": [
+      "Bike",
+      "Mountain bike",
+      "road bike",
+      "hybrid bike",
+      "cruiser bike",
+      "BMX bike"
+   ],
+   "Bottle": [
+      "Bottle",
+      "water bottle",
+      "baby bottle",
+      "beer bottle",
+      "wine bottle",
+      "soda bottle"
+   ],
+   "Bucket": [
+      "Bucket",
+      "plastic bucket metal bucket fabric bucket wooden bucket stone bucket"
+   ],
+   "Calculator": [
+      "Calculator",
+      "Karen calculator",
+      "TI Plus calculator",
+      "Casio fxGII calculator",
+      "HewlettPackard HPC calculator",
+      "Texas Instruments TIX IIS calculator"
+   ],
+   "Calendar": [
+      "Calendar",
+      "electronic Calendar",
+      "paper Calendar",
+      "webbased Calendar",
+      "desktop Calendar",
+      "mobile Calendar"
+   ],
+   "Candles": [
+      "Candles",
+      "Taper Candles",
+      "pillar Candles",
+      "votive Candles",
+      "tealight Candles",
+      "emergency Candles"
+   ],
+   "Chair": [
+      "Chair",
+      "Sofa Chair",
+      "love seat Chair",
+      "recliner Chair",
+      "rocker Chair",
+      "wingback Chair"
+   ],
+   "Clipboards": [
+      "Clipboards",
+      "Wooden Clipboards",
+      "plastic Clipboards",
+      "metal Clipboards",
+      "electronic Clipboards",
+      "dryerase Clipboards"
+   ],
+   "Computer": [
+      "Computer",
+      "Laptop Computer",
+      "tablet Computer",
+      "desktop Computer",
+      "smartphone Computer",
+      "wearable Computer"
+   ],
+   "Couch": [
+      "Couch",
+      "Sofa Couch",
+      "loveseat Couch",
+      "settee Couch",
+      "daybed Couch",
+      "chesterfield Couch"
+   ],
+   "Curtains": [
+      "Curtains",
+      "Drapes Curtains",
+      "Shades Curtains",
+      "Blinds Curtains",
+      "Shutters Curtains"
+   ],
+   "Desk Lamp": [
+      "Desk Lamp",
+      "Table lamp Desk Lamp",
+      "floor lamp Desk Lamp",
+      "bankers lamp Desk Lamp",
+      "touch lamp Desk Lamp",
+      "LED lamp Desk Lamp"
+   ],
+   "Drill": [
+      "Drill",
+      "hammer drill",
+      "impact drill",
+      "cordless drill",
+      "right angle drill",
+      "hand drill"
+   ],
+   "Eraser": [
+      "Eraser",
+      "pencil Eraser",
+      "pen Eraser",
+      "crayon Eraser",
+      "chalk Eraser",
+      "marker Eraser"
+   ],
+   "Exit Sign": [
+      "Exit Sign",
+      "Exit Exit Sign",
+      "Emergency Exit Exit Sign",
+      "Fire Exit Exit Sign",
+      "Emergency Exit Sign",
+      "Fire Exit Sign"
+   ],
+   "Fan": [
+      "Fan",
+      "ceiling Fan",
+      "desktop Fan",
+      "floor Fan",
+      "handheld Fan",
+      "industrial Fan"
+   ],
+   "File Cabinet": [
+      "File Cabinet",
+      "drawer File Cabinet",
+      "drawer File Cabinet",
+      "drawer File Cabinet",
+      "lateral File Cabinet",
+      "fireproof File Cabinet"
+   ],
+   "Flipflops": [
+      "Flipflops",
+      "sandals Flipflops",
+      "clogs Flipflops",
+      "mules Flipflops",
+      "slides Flipflops",
+      "crocs Flipflops"
+   ],
+   "Flowers": [
+      "Flowers",
+      "roses Flowers",
+      "orchids Flowers",
+      "daisies Flowers",
+      "tulips Flowers",
+      "lilies Flowers"
+   ],
+   "Folder": [
+      "Folder",
+      "Backpack Folder",
+      "binder Folder",
+      "briefcase Folder",
+      "file folder",
+      "manila folder"
+   ],
+   "Fork": [
+      "Fork",
+      "spoon Fork",
+      "knife Fork",
+      "chopsticks Fork",
+      "dessert fork",
+      "salad fork"
+   ],
+   "Glasses": [
+      "Glasses",
+      "sunglasses",
+      "reading glasses",
+      "safety glasses",
+      "D glasses",
+      "prescription glasses"
+   ],
+   "Hammer": [
+      "Hammer",
+      "Tack Hammer",
+      "Claw Hammer",
+      "BallPeen Hammer",
+      "Machinists Hammer",
+      "Sledge Hammer"
+   ],
+   "Helmet": [
+      "Helmet",
+      "fullface Helmet",
+      "halfshell Helmet",
+      "openface Helmet",
+      "brain bucket Helmet",
+      "threequarter Helmet"
+   ],
+   "Kettle": [
+      "Kettle",
+      "Tea kettle",
+      "electric kettle",
+      "stovetop kettle",
+      "travel kettle",
+      "whistling kettle"
+   ],
+   "Keyboard": [
+      "Keyboard",
+      "Standard keyboard",
+      "ergonomic keyboard",
+      "gaming keyboard",
+      "wireless keyboard",
+      "bluetooth keyboard"
+   ],
+   "Knives": [
+      "Knives",
+      "Chefs knife Knives",
+      "paring knife Knives",
+      "serrated knife Knives",
+      "bread knife Knives",
+      "carving knife Knives"
+   ],
+   "Lamp Shade": [
+      "Lamp Shade",
+      "floor Lamp Shade",
+      "table Lamp Shade",
+      "desk Lamp Shade",
+      "hanging Lamp Shade",
+      "Tiffany Lamp Shade"
+   ],
+   "Laptop": [
+      "Laptop",
+      "Macbook Laptop",
+      "Asus Laptop",
+      "Dell Laptop",
+      "Lenovo Laptop",
+      "Acer Laptop"
+   ],
+   "Marker": [
+      "Marker",
+      "dry erase Marker",
+      "permanent Marker",
+      "whiteboard Marker",
+      "chalkboard Marker",
+      "glassboard Marker"
+   ],
+   "Monitor": [
+      "Monitor",
+      "Flatscreen Monitor",
+      "LED Monitor",
+      "OLED Monitor",
+      "LCD Monitor",
+      "CRT Monitor"
+   ],
+   "Mop": [
+      "Mop",
+      "floor mop",
+      "sponge mop",
+      "string mop",
+      "flat mop",
+      "dust mop"
+   ],
+   "Mouse": [
+      "Mouse",
+      "optical Mouse",
+      "wireless Mouse",
+      "ergonomic Mouse",
+      "gaming Mouse",
+      "mechanical Mouse"
+   ],
+   "Mug": [
+      "Mug",
+      "coffee mug",
+      "tea mug",
+      "soup mug",
+      "beer mug",
+      "travel mug"
+   ],
+   "Notebook": [
+      "Notebook",
+      "Composition notebook",
+      "steno notebook",
+      "lab notebook",
+      "field notebook",
+      "pocket notebook"
+   ],
+   "Oven": [
+      "Oven",
+      "electric Oven",
+      "convection Oven",
+      "gas Oven",
+      "toaster Oven",
+      "microwave Oven"
+   ],
+   "Pan": [
+      "Pan",
+      "Frying pan",
+      "saucepan",
+      "saut pan",
+      "soup pan",
+      "casserole pan"
+   ],
+   "Paper Clip": [
+      "Paper Clip",
+      "Paper clips come in many different shapes and sizes",
+      "but they all serve the same purpose to hold paper together Basic paper clip  Jumbo paper clip  Binder clip  Magnetic paper clip  Decorative paper clip"
+   ],
+   "Pen": [
+      "Pen",
+      "ballpoint pen",
+      "fountain pen",
+      "rollerball pen",
+      "gel pen",
+      "felt tip pen"
+   ],
+   "Pencil": [
+      "Pencil",
+      "graphite Pencil",
+      "lead Pencil",
+      "charcoal Pencil",
+      "pastel Pencil",
+      "colored Pencil"
+   ],
+   "Postit Notes": [
+      "Postit Notes",
+      "Sticky notes Postit Notes",
+      "post it notes Postit Notes",
+      "yellow notes Postit Notes",
+      "notebook Postit Notes",
+      "paper Postit Notes"
+   ],
+   "Printer": [
+      "Printer",
+      "Inkjet Printer",
+      "Laser Printer",
+      "Thermal Printer",
+      "Dyesublimation Printer",
+      "LED Printer"
+   ],
+   "Push Pin": [
+      "Push Pin",
+      "Push Pin Thumb Tack Drawing Pin Bumper Stopper"
+   ],
+   "Radio": [
+      "Radio",
+      "Satellite Radio",
+      "Portable Radio",
+      "Internet Radio",
+      "Ham Radio",
+      "CBCookieChocolate Chip Radio",
+      "Peanut Butter Radio",
+      "Oatmeal Radio",
+      "Sugar Radio",
+      "Gingerbread Radio"
+   ],
+   "Refrigerator": [
+      "Refrigerator",
+      "Sidebyside Refrigerator",
+      "topfreezer Refrigerator",
+      "bottomfreezer Refrigerator",
+      "French door Refrigerator",
+      "Compact Refrigerator"
+   ],
+   "Ruler": [
+      "Ruler",
+      "TSquare Ruler",
+      "Yardstick Ruler",
+      "Triangle Ruler",
+      "Carpenters Square Ruler",
+      "Protractor Ruler"
+   ],
+   "Scissors": [
+      "Scissors",
+      " Scissors"
+   ],
+   "Screwdriver": [
+      "Screwdriver",
+      "Phillips Screwdriver",
+      "slotted Screwdriver",
+      "hex Screwdriver",
+      "Robertson Screwdriver",
+      "Pozidriv Screwdriver"
+   ],
+   "Shelf": [
+      "Shelf",
+      "bookshelf",
+      "mantel Shelf",
+      "bracket Shelf",
+      "etagere Shelf",
+      "cube Shelf"
+   ],
+   "Sink": [
+      "Sink",
+      "Bathroom sink",
+      "kitchen sink",
+      "laundry sink",
+      "bar sink",
+      "utility sink"
+   ],
+   "Sneakers": [
+      "Sneakers",
+      "Nike Sneakers",
+      "Adidas Sneakers",
+      "Reebok Sneakers",
+      "Puma Sneakers",
+      "Vans Sneakers"
+   ],
+   "Soda": [
+      "Soda",
+      "CocaCola Soda",
+      "Pepsi Soda",
+      "Dr Pepper Soda",
+      "Sprite Soda",
+      "Mountain Dew Soda"
+   ],
+   "Speaker": [
+      "Speaker",
+      "Surround sound Soundbar Bluetooth Portable Home theater Speaker"
+   ],
+   "Spoon": [
+      "Spoon",
+      "teaspoon",
+      "tablespoon",
+      "soup spoon",
+      "dessert spoon",
+      "salad spoon"
+   ],
+   "TV": [
+      "TV",
+      "Plasma TV",
+      "LCD TV",
+      "LED TV",
+      "OLED TV",
+      "QLED TV"
+   ],
+   "Table": [
+      "Table",
+      "Coffee table",
+      "Dining table",
+      "End table",
+      "Sofa table",
+      "Console table",
+      "Picnic table",
+      "Kitchen table",
+      "Side table",
+      "Nesting table",
+      "Folding table"
+   ],
+   "Telephone": [
+      "Telephone",
+      "Cell phone Telephone",
+      "home phone Telephone",
+      "office phone Telephone",
+      "pay phone Telephone",
+      "rotary phone Telephone"
+   ],
+   "ToothBrush": [
+      "ToothBrush",
+      "Electric Toothbrush",
+      "Battery Toothbrush",
+      "Manual Toothbrush",
+      "Child Toothbrush",
+      "Toothbrush Head"
+   ],
+   "Toys": [
+      "Toys",
+      "stuffed animals Toys",
+      "dolls Toys",
+      "action figures Toys",
+      "model cars Toys",
+      "puzzles Toys"
+   ],
+   "Trash Can": [
+      "Trash Can",
+      "Plastic Cardboard Glass Metal Wood Trash Can"
+   ],
+   "Webcam": [
+      "Webcam",
+      "USB Webcam",
+      "wireless Webcam",
+      "mini Webcam",
+      "HD Webcam",
+      "K Webcam"
+   ]
+}

@@ -1,0 +1,90 @@
+{
+   "garment": [
+      "garment",
+      "Tshirt garment",
+      "jeans garment",
+      "dress garment",
+      "skirt garment",
+      "blouse garment"
+   ],
+   "soft furnishings": [
+      "soft furnishings",
+      "curtains soft furnishings",
+      "drapes soft furnishings",
+      "blinds soft furnishings",
+      "shades soft furnishings",
+      "valances soft furnishings"
+   ],
+   "accessory": [
+      "accessory",
+      "earrings accessory",
+      "necklace accessory",
+      "bracelet accessory",
+      "ring accessory",
+      "brooch accessory"
+   ],
+   "appliance": [
+      "appliance",
+      "blender appliance",
+      "coffee maker appliance",
+      "toaster appliance",
+      "mixer appliance",
+      "juicer appliance"
+   ],
+   "equipment": [
+      "equipment",
+      "trowel equipment",
+      "hoe equipment",
+      "rake equipment",
+      "shovel equipment",
+      "wheelbarrow equipment"
+   ],
+   "furniture": [
+      "furniture",
+      "table furniture",
+      "chair furniture",
+      "dresser furniture",
+      "nightstand furniture",
+      "bookshelf furniture"
+   ],
+   "toiletry": [
+      "toiletry",
+      "toothbrush toiletry",
+      "toothpaste toiletry",
+      "razor toiletry",
+      "shampoo toiletry",
+      "conditioner toiletry"
+   ],
+   "wheeled vehicle": [
+      "wheeled vehicle",
+      "car wheeled vehicle",
+      "truck wheeled vehicle",
+      "bus wheeled vehicle",
+      "train wheeled vehicle",
+      "bicycle wheeled vehicle"
+   ],
+   "cooked food": [
+      "cooked food",
+      "stir fry cooked food",
+      "pasta cooked food",
+      "rice cooked food",
+      "soup cooked food",
+      "salad cooked food"
+   ],
+   "produce": [
+      "produce",
+      "apple produce",
+      "banana produce",
+      "orange produce",
+      "grape produce",
+      "strawberry produce"
+   ],
+   "beverage": [
+      "beverage",
+      "coffee beverage",
+      "tea beverage",
+      "water beverage",
+      "soda beverage",
+      "milk beverage"
+   ]
+}

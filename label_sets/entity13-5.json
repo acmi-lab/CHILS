@@ -1,0 +1,106 @@
+{
+   "garment": [
+      "garment",
+      "shirt garment",
+      "dress garment",
+      "blouse garment",
+      "skirt garment",
+      "pants garment"
+   ],
+   "bird": [
+      "bird",
+      "eagle bird",
+      "hawk bird",
+      "crow bird",
+      "canary bird",
+      "sparrow bird"
+   ],
+   "reptile": [
+      "reptile",
+      "snakes reptile",
+      "lizards reptile",
+      "alligators reptile",
+      "crocodiles reptile",
+      "turtles reptile"
+   ],
+   "arthropod": [
+      "arthropod",
+      "spider arthropod",
+      "crab arthropod",
+      "scorpion arthropod",
+      "shrimp arthropod",
+      "millipede arthropod"
+   ],
+   "mammal": [
+      "mammal",
+      "cat mammal",
+      "rat mammal",
+      "bat mammal",
+      "ox mammal",
+      "lion mammal"
+   ],
+   "accessory": [
+      "accessory",
+      "sunglasses accessory",
+      "hat accessory",
+      "belt accessory",
+      "scarf accessory",
+      "jewelry accessory"
+   ],
+   "craft": [
+      "craft",
+      "sculpture craft",
+      "pottery craft",
+      "weaving craft",
+      "glassblowing craft",
+      "jewelry making craft"
+   ],
+   "equipment": [
+      "equipment",
+      "stove equipment",
+      "refrigerator equipment",
+      "dishwasher equipment",
+      "washer equipment",
+      "dryer equipment"
+   ],
+   "furniture": [
+      "furniture",
+      "Couch furniture",
+      "love seat furniture",
+      "recliner furniture",
+      "coffee table furniture",
+      "end table furniture"
+   ],
+   "instrument": [
+      "instrument",
+      "guitar instrument",
+      "drums instrument",
+      "piano instrument",
+      "violin instrument",
+      "saxophone instrument"
+   ],
+   "man-made structure": [
+      "man-made structure",
+      "building man-made structure",
+      "road man-made structure",
+      "bridge man-made structure",
+      "tunnel man-made structure",
+      "dam man-made structure"
+   ],
+   "wheeled vehicle": [
+      "wheeled vehicle",
+      "car wheeled vehicle",
+      "truck wheeled vehicle",
+      "motorcycle wheeled vehicle",
+      "bicycle wheeled vehicle",
+      "scooter wheeled vehicle"
+   ],
+   "produce": [
+      "produce",
+      "apple produce",
+      "banana produce",
+      "orange produce",
+      "grape produce",
+      "strawberry produce"
+   ]
+}

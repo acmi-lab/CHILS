@@ -1,0 +1,104 @@
+{
+   "salamander": [
+      "European fire salamander",
+      "common newt",
+      "eft",
+      "spotted salamander"
+   ],
+   "turtle": [
+      "loggerhead",
+      "leatherback turtle",
+      "mud turtle",
+      "terrapin"
+   ],
+   "lizard": [
+      "common iguana",
+      "American chameleon",
+      "agama",
+      "frilled lizard"
+   ],
+   "snake": [
+      "thunder snake",
+      "ringneck snake",
+      "diamondback",
+      "sidewinder"
+   ],
+   "spider": [
+      "black and gold garden spider",
+      "barn spider",
+      "garden spider",
+      "black widow"
+   ],
+   "grouse": [
+      "black grouse",
+      "ptarmigan",
+      "ruffed grouse",
+      "prairie chicken"
+   ],
+   "parrot": [
+      "African grey",
+      "macaw",
+      "sulphur-crested cockatoo",
+      "lorikeet"
+   ],
+   "crab": [
+      "Dungeness crab",
+      "rock crab",
+      "fiddler crab",
+      "king crab"
+   ],
+   "dog": [
+      "miniature schnauzer",
+      "giant schnauzer",
+      "standard schnauzer",
+      "toy poodle"
+   ],
+   "wolf": [
+      "timber wolf",
+      "white wolf",
+      "red wolf",
+      "coyote"
+   ],
+   "fox": [
+      "red fox",
+      "kit fox",
+      "Arctic fox",
+      "grey fox"
+   ],
+   "domestic cat": [
+      "tabby",
+      "tiger cat",
+      "Persian cat",
+      "Siamese cat"
+   ],
+   "bear": [
+      "brown bear",
+      "American black bear",
+      "ice bear",
+      "sloth bear"
+   ],
+   "beetle": [
+      "tiger beetle",
+      "ladybug",
+      "dung beetle",
+      "rhinoceros beetle"
+   ],
+   "butterfly": [
+      "admiral",
+      "ringlet",
+      "monarch",
+      "cabbage butterfly"
+   ],
+   "ape": [
+      "orangutan",
+      "gorilla",
+      "chimpanzee",
+      "gibbon"
+   ],
+   "monkey": [
+      "guenon",
+      "patas",
+      "baboon",
+      "macaque"
+   ]
+}

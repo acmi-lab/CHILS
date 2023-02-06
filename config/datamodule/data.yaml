@@ -1,0 +1,6 @@
+_target_: src.datamodule.DataModule
+data_dir: ${data_dir} 
+target_dataset: ${source_dataset}
+batch_size: 128
+num_classes: ${num_classes}
+clip_transform: ${arch}

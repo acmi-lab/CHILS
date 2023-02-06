@@ -1,0 +1,138 @@
+{
+   "salamander": [
+      "salamander",
+      "fire salamander",
+      "alpine newt salamander",
+      "tiger salamander",
+      "mudpuppy salamander",
+      "axolotl salamander"
+   ],
+   "turtle": [
+      "turtle",
+      "box turtle",
+      "snapping turtle",
+      "softshelled turtle",
+      "painted turtle",
+      "sea turtle"
+   ],
+   "lizard": [
+      "lizard",
+      "Gecko lizard",
+      "Iguana lizard",
+      "Monitor lizard",
+      "Skink lizard",
+      "Turtle lizard"
+   ],
+   "snake": [
+      "snake",
+      "anaconda snake",
+      "boa constrictor snake",
+      "cobra snake",
+      "python snake",
+      "viper snake"
+   ],
+   "spider": [
+      "spider",
+      "Tarantula spider",
+      "Black Widow spider",
+      "Brown Recluse spider",
+      "Redback spider",
+      "Wolf spider"
+   ],
+   "grouse": [
+      "grouse",
+      "ptarmigan grouse",
+      "willow grouse",
+      "rock grouse",
+      "spruce grouse",
+      "and whitetailed grouse"
+   ],
+   "parrot": [
+      "parrot",
+      "Macaw parrot",
+      "cockatoo parrot",
+      "lorikeet parrot",
+      "budgerigar parrot",
+      "lovebird parrot"
+   ],
+   "crab": [
+      "crab",
+      "Blue crab",
+      "Dungeness crab",
+      "king crab",
+      "snow crab",
+      "stone crab"
+   ],
+   "dog": [
+      "dog",
+      "Dalmatian dog",
+      "Cocker Spaniel dog",
+      "Labrador Retriever dog",
+      "Beagle dog",
+      "Boston Terrier dog"
+   ],
+   "wolf": [
+      "wolf",
+      "German shepherd wolf",
+      "husky wolf",
+      "arctic wolf",
+      "red wolf",
+      "gray wolf"
+   ],
+   "fox": [
+      "fox",
+      "red fox",
+      "arctic fox",
+      "kit fox",
+      "fennec fox",
+      "bateared fox"
+   ],
+   "domestic cat": [
+      "domestic cat",
+      "Siamese domestic cat",
+      "Russian Blue domestic cat",
+      "Maine Coon domestic cat",
+      "Himalayan domestic cat",
+      "Pers domestic cat"
+   ],
+   "bear": [
+      "bear",
+      "polar bear",
+      "grizzly bear",
+      "black bear",
+      "sun bear",
+      "sloth bear"
+   ],
+   "beetle": [
+      "beetle",
+      "coconut beetle",
+      "dung beetle",
+      "fire beetle",
+      "flower beetle",
+      "fruit beetle"
+   ],
+   "butterfly": [
+      "butterfly",
+      "Monarch butterfly",
+      "Swallowtail butterfly",
+      "Painted Lady butterfly",
+      "White Admiral butterfly",
+      "Redspotted Purple butterfly"
+   ],
+   "ape": [
+      "ape",
+      "chimpanzee ape",
+      "gorilla ape",
+      "orangutan ape",
+      "bonobo ape",
+      "gibbon ape"
+   ],
+   "monkey": [
+      "monkey",
+      "Ape monkey",
+      "Baboon monkey",
+      "Capuchin monkey",
+      "Squirrel Monkey",
+      "Tamarin monkey"
+   ]
+}

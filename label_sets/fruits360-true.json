@@ -1,0 +1,222 @@
+{
+   "apple": [
+      "braeburn apple",
+      "crimson snow apple",
+      "golden apple",
+      "granny smith apple",
+      "pink lady apple",
+      "red apple",
+      "red delicious apple",
+      "red yellow apple"
+   ],
+   "apricot": [
+      "apricot"
+   ],
+   "avocado": [
+      "avocado"
+   ],
+   "banana": [
+      "banana",
+      "lady finger banana",
+      "red banana"
+   ],
+   "beetroot": [
+      "beetroot"
+   ],
+   "blueberry": [
+      "blueberry"
+   ],
+   "cactus fruit": [
+      "cactus fruit"
+   ],
+   "melon": [
+      "melon"
+   ],
+   "star fruit": [
+      "star fruit"
+   ],
+   "cauliflower": [
+      "cauliflower"
+   ],
+   "cherry": [
+      "cherry",
+      "rainier cherry",
+      "black cherry",
+      "red cherry",
+      "yellow cherry"
+   ],
+   "nut": [
+      "nut",
+      "forest nut",
+      "pecan nut"
+   ],
+   "orange": [
+      "orange"
+   ],
+   "cocos": [
+      "cocos"
+   ],
+   "corn": [
+      "corn"
+   ],
+   "corn husk": [
+      "corn husk"
+   ],
+   "cucumber": [
+      "cucumber"
+   ],
+   "date": [
+      "date"
+   ],
+   "eggplant": [
+      "eggplant"
+   ],
+   "fig": [
+      "fig"
+   ],
+   "ginger root": [
+      "ginger root"
+   ],
+   "passion fruit": [
+      "granadilla",
+      "maracuja",
+      "passion fruit"
+   ],
+   "grape": [
+      "blue grape",
+      "pink grape",
+      "white grape"
+   ],
+   "grapefruit": [
+      "pink grapefruit",
+      "white grapefruit"
+   ],
+   "gauva": [
+      "gauva"
+   ],
+   "huckleberry": [
+      "huckleberry"
+   ],
+   "persimmon": [
+      "kaki"
+   ],
+   "kiwi": [
+      "kiwi"
+   ],
+   "kohlrabi": [
+      "kohlrabi"
+   ],
+   "kumquat": [
+      "kumquat"
+   ],
+   "lemon": [
+      "lemon",
+      "meyer lemon"
+   ],
+   "lime": [
+      "lime"
+   ],
+   "lychee": [
+      "lychee"
+   ],
+   "mango": [
+      "mango",
+      "red mango"
+   ],
+   "mangostan": [
+      "mangostan"
+   ],
+   "mulberry": [
+      "mulberry"
+   ],
+   "nectarine": [
+      "nectarine",
+      "flat nectarine"
+   ],
+   "onion": [
+      "red onion",
+      "white onion"
+   ],
+   "papaya": [
+      "papaya"
+   ],
+   "peach": [
+      "peach",
+      "flat peach"
+   ],
+   "pear": [
+      "pear",
+      "abate pear",
+      "forelle pear",
+      "kaiser pear",
+      "monster pear",
+      "red pear",
+      "stone pear",
+      "williams pear"
+   ],
+   "pepino": [
+      "pepino"
+   ],
+   "pepper": [
+      "green pepper",
+      "orange pepper",
+      "red pepper",
+      "yellow pepper"
+   ],
+   "groundcherry": [
+      "groundcherry"
+   ],
+   "pineapple": [
+      "pineapple",
+      "mini pineapple"
+   ],
+   "dragon fruit": [
+      "dragon fruit"
+   ],
+   "plum": [
+      "plum"
+   ],
+   "pomegranate": [
+      "pomegranate"
+   ],
+   "pomelo": [
+      "pomelo"
+   ],
+   "potato": [
+      "red potato",
+      "sweet potato",
+      "white potato"
+   ],
+   "quince": [
+      "quince"
+   ],
+   "rambutan": [
+      "rambutan"
+   ],
+   "raspberry": [
+      "raspberry"
+   ],
+   "redcurrant": [
+      "redcurrant"
+   ],
+   "snake fruit": [
+      "salak"
+   ],
+   "strawberry": [
+      "strawberry"
+   ],
+   "tamarillo": [
+      "tamarillo"
+   ],
+   "tangelo": [
+      "tangelo"
+   ],
+   "tomato": [
+      "tomato",
+      "cherry tomato",
+      "heart tomato",
+      "maroon tomato",
+      "yellow tomato",
+      "unripe tomato"
+   ]
+}

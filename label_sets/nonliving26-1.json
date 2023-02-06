@@ -1,0 +1,270 @@
+{
+   "bag": [
+      "bag",
+      "duffel bag",
+      "satchel bag",
+      "purse bag",
+      "backpack bag",
+      "tote bag"
+   ],
+   "ball": [
+      "ball",
+      "football",
+      "soccer ball",
+      "basketball",
+      "baseball",
+      "tennis ball",
+      "volleyball",
+      "golf ball",
+      "ping pong ball"
+   ],
+   "boat": [
+      "boat",
+      "sailboat",
+      "speedboat",
+      "yacht boat",
+      "houseboat",
+      "pontoon boat",
+      "rowboat",
+      "dinghy boat"
+   ],
+   "body armor": [
+      "body armor",
+      "helmet body armor",
+      "breastplate body armor",
+      "greaves body armor",
+      "gauntlets body armor",
+      "pauldrons body armor"
+   ],
+   "bottle": [
+      "bottle",
+      "water bottle",
+      "soda bottle",
+      "beer bottle",
+      "wine bottle"
+   ],
+   "bus": [
+      "bus"
+   ],
+   "car": [
+      "car",
+      "sedan car",
+      "coupe car",
+      "convertible car",
+      "hatchback car",
+      "station wagon car",
+      "SUV car",
+      "minivan car",
+      "truck car"
+   ],
+   "chair": [
+      "chair",
+      " chair"
+   ],
+   "coat": [
+      "coat",
+      "jacket coat",
+      "overcoat",
+      "parka coat",
+      "pea coat",
+      "trench coat",
+      "raincoat"
+   ],
+   "digital computer": [
+      "digital computer",
+      "desktop digital computer",
+      "laptop digital computer",
+      "tablet digital computer",
+      "smartphone digital computer"
+   ],
+   "dwelling": [
+      "dwelling",
+      "House dwelling",
+      "Apartment dwelling",
+      "Duplex dwelling",
+      "Condo dwelling",
+      "Townhouse dwelling",
+      "Mobile Home dwelling",
+      "Mansion dwelling",
+      "Villa dwelling",
+      "Chalet dwelling",
+      "Cottage dwelling"
+   ],
+   "fence": [
+      "fence",
+      "Wooden fence",
+      "metal fence",
+      "plastic fence",
+      "concrete fence",
+      "stone fence"
+   ],
+   "hat": [
+      "hat",
+      "beret hat",
+      "bowler hat",
+      "fedora hat",
+      "homburg hat",
+      "panama hat",
+      "top hat"
+   ],
+   "keyboard instrument": [
+      "keyboard instrument",
+      "piano keyboard instrument",
+      "pipe organ keyboard instrument",
+      "harpsichord keyboard instrument",
+      "clavichord keyboard instrument",
+      "electronic keyboard keyboard instrument",
+      "synthesizer keyboard instrument"
+   ],
+   "mercantile establishment": [
+      "mercantile establishment",
+      "department store mercantile establishment",
+      "grocery store mercantile establishment",
+      "convenience store mercantile establishment",
+      "bodega mercantile establishment",
+      "minimart mercantile establishment",
+      "supermarket mercantile establishment",
+      "hypermarket mercantile establishment",
+      "general store mercantile establishment"
+   ],
+   "outbuilding": [
+      "outbuilding",
+      "barn outbuilding",
+      "shed outbuilding",
+      "outhouse outbuilding",
+      "garage outbuilding",
+      "gazebo outbuilding",
+      "summerhouse outbuilding",
+      "pergola outbuilding",
+      "playhouse outbuilding",
+      "potting shed outbuilding",
+      "tool shed outbuilding",
+      "garden shed outbuilding",
+      "bike shed outbuilding",
+      "pool house outbuilding",
+      "guest house outbuilding",
+      "carriage house outbuilding",
+      "granny flat outbuilding",
+      "lodge outbuilding",
+      "cabin outbuilding",
+      "chalet outbuilding",
+      "pavilion outbuilding",
+      "bandstand outbuilding",
+      "kiosk outbuilding",
+      "belvedere outbuilding",
+      "folly outbuilding",
+      "rotunda outbuilding",
+      "gazebo outbuilding",
+      "mausoleum outbuilding",
+      "temple outbuilding",
+      "pagoda outbuilding",
+      "gable outbuilding",
+      "cupola outbuilding",
+      "belfry outbuilding",
+      "campanile outbuilding",
+      "minaret outbuilding",
+      "martello tower outbuilding",
+      "pharos outbuilding",
+      "lighthouse outbuilding",
+      "windmill outbuilding",
+      "watermill outbuilding",
+      "dovecote outbuilding",
+      "ice house outbuilding",
+      "bath house outbuilding",
+      "sauna outbuilding",
+      "sweat lodge outbuilding",
+      "barbeque hut outbuilding",
+      "beach house outbuilding",
+      "lifeguard tower outbuilding",
+      "hunting lodge outbuilding",
+      "hunting blind outbuilding",
+      "tree house outbuilding"
+   ],
+   "percussion instrument": [
+      "percussion instrument",
+      "Drum percussion instrument",
+      "cymbal percussion instrument",
+      "gong percussion instrument",
+      "xylophone percussion instrument",
+      "marimba percussion instrument"
+   ],
+   "pot": [
+      "pot",
+      "saucepan pot",
+      "frying pan pot",
+      "stockpot",
+      "Dutch oven pot",
+      "soup pot",
+      "teapot",
+      "pressure cooker pot",
+      "crock pot"
+   ],
+   "roof": [
+      "roof",
+      "shingle roof",
+      "tile roof",
+      "thatch roof",
+      "shake roof",
+      "metal roof"
+   ],
+   "ship": [
+      "ship",
+      "Battleship",
+      "cargo ship",
+      "cruise ship",
+      "destroyer ship",
+      "frigate ship",
+      "ship of the line"
+   ],
+   "skirt": [
+      "skirt",
+      "Aline skirt",
+      "ballgown skirt",
+      "mermaid skirt",
+      "sheath skirt",
+      "trumpet skirt"
+   ],
+   "stringed instrument": [
+      "stringed instrument",
+      "guitar stringed instrument",
+      "violin stringed instrument",
+      "cello stringed instrument",
+      "bass stringed instrument",
+      "ukulele stringed instrument",
+      "mandolin stringed instrument"
+   ],
+   "timepiece": [
+      "timepiece",
+      "watch timepiece",
+      "clock timepiece",
+      " timepiece"
+   ],
+   "truck": [
+      "truck",
+      "Trucks",
+      "pickups truck",
+      "vans truck",
+      "commercial vehicles truck"
+   ],
+   "wind instrument": [
+      "wind instrument",
+      "flute wind instrument",
+      "oboe wind instrument",
+      "clarinet wind instrument",
+      "saxophone wind instrument",
+      "bassoon wind instrument",
+      "trumpet wind instrument",
+      "trombone wind instrument",
+      "French horn wind instrument",
+      "euphonium wind instrument",
+      "tuba wind instrument"
+   ],
+   "squash": [
+      "squash",
+      "butternut squash",
+      "acorn squash",
+      "zucchini squash",
+      "yellow squash",
+      "summer squash"
+   ]
+}

@@ -1,0 +1,297 @@
+{
+   "airplane": [
+      "airplane",
+      "Boeing airplane",
+      "Airbus A airplane",
+      "McDonnell Douglas MD airplane",
+      "Lockheed L TriStar airplane",
+      "Antonov An airplane"
+   ],
+   "airport": [
+      "airport",
+      "Boeing airport",
+      "Airbus A airport",
+      "McDonnell Douglas DC airport",
+      "Lockheed L TriStar airport",
+      "Antonov An airport"
+   ],
+   "baseball diamond": [
+      "baseball diamond",
+      " baseball diamond"
+   ],
+   "basketball court": [
+      "basketball court",
+      "Basketball court"
+   ],
+   "beach": [
+      "beach",
+      "Waves beach",
+      "sand beach",
+      "sun beach",
+      "sea beach",
+      "salt beach",
+      "sky beach",
+      "people beach",
+      "shells beach",
+      "rocks beach",
+      "seaweed beach"
+   ],
+   "bridge": [
+      "bridge",
+      "arch bridge",
+      "suspension bridge",
+      "cantilever bridge",
+      "beam bridge",
+      "truss bridge",
+      "cablestayed bridge",
+      "bascule bridge",
+      "drawbridge"
+   ],
+   "chaparral": [
+      "chaparral",
+      "Shrubs chaparral",
+      "bushes chaparral",
+      "small trees chaparral",
+      "grasses chaparral",
+      "herbs chaparral"
+   ],
+   "church": [
+      "cathedral church",
+      "chapel church",
+      "church",
+      "abbey church",
+      "monastery church",
+      "convent church",
+      "pilgrimage site church"
+   ],
+   "circular farmland": [
+      "circular farmland",
+      "round circular farmland",
+      "circular circular farmland",
+      "spiral circular farmland",
+      "elliptical circular farmland",
+      "oval circular farmland"
+   ],
+   "cloud": [
+      "cloud",
+      "Cumulonimbus cloud",
+      "Cirrus cloud",
+      "Stratus cloud",
+      "Cumulus cloud"
+   ],
+   "commercial area": [
+      "commercial area",
+      "shopping center commercial area",
+      "office building commercial area",
+      "hotel commercial area",
+      "apartment complex commercial area",
+      "factory commercial area"
+   ],
+   "dense residential": [
+      "dense residential",
+      " dense residential"
+   ],
+   "desert": [
+      "desert",
+      "dune desert",
+      "oasis desert",
+      "cactus desert",
+      "Gobi desert",
+      "Sahara desert"
+   ],
+   "forest": [
+      "forest",
+      "deciduous forest",
+      "coniferous forest",
+      "mixed forest"
+   ],
+   "freeway": [
+      "highway freeway",
+      "freeway"
+   ],
+   "golf course": [
+      "golf course",
+      " golf course"
+   ],
+   "ground track field": [
+      "ground track field",
+      "BaseballFootballSoccerTennisBaseball ground track field",
+      "football ground track field",
+      "soccer ground track field",
+      "tennis ground track field"
+   ],
+   "harbor": [
+      "harbor",
+      "Dock harbor",
+      "pier harbor",
+      "wharf harbor",
+      "jetty harbor",
+      "terminal harbor"
+   ],
+   "industrial area": [
+      "industrial area",
+      "factory industrial area",
+      "mill industrial area",
+      "assembly plant industrial area",
+      "power plant industrial area",
+      "refinery industrial area",
+      "warehouse industrial area"
+   ],
+   "intersection": [
+      "intersection",
+      "road intersection",
+      "highway intersection"
+   ],
+   "island": [
+      "island",
+      "Island"
+   ],
+   "lake": [
+      "lake",
+      "Lake Superior",
+      "Lake Michigan",
+      "Lake Huron",
+      "Lake Erie",
+      "Lake Ontario"
+   ],
+   "meadow": [
+      "meadow",
+      "flowers meadow",
+      "trees meadow",
+      "grass meadow",
+      "bushes meadow",
+      "dirt meadow"
+   ],
+   "medium residential": [
+      "medium residential",
+      "detached house medium residential",
+      "semidetached house medium residential",
+      "terraced house medium residential",
+      "bungalow medium residential",
+      "flat medium residential"
+   ],
+   "mobile home park": [
+      "mobile home park",
+      "Trailer park mobile home park",
+      "mobile home community mobile home park",
+      "manufactured housing community mobile home park"
+   ],
+   "mountain": [
+      "mountain",
+      "Mountain",
+      " mountain"
+   ],
+   "overpass": [
+      "overpass",
+      "Nouns traffic overpass",
+      "construction overpass",
+      "road overpass",
+      "direction overpass",
+      "GPS overpass"
+   ],
+   "palace": [
+      "palace"
+   ],
+   "parking lot": [
+      "parking lot",
+      "garage parking lot",
+      "lot parking lot"
+   ],
+   "railway": [
+      "railway",
+      "locomotive railway",
+      "passenger car railway",
+      "freight car railway",
+      "caboose railway",
+      "highspeed train railway",
+      "bullet train railway"
+   ],
+   "railway station": [
+      "train station railway station",
+      "bus station railway station",
+      "railway station",
+      "metro station railway station"
+   ],
+   "rectangular farmland": [
+      "rectangular farmland",
+      "rectangular rectangular farmland",
+      "farmland rectangular farmland"
+   ],
+   "river": [
+      "river",
+      "Nile river",
+      "Amazon river",
+      "Mississippi river",
+      "Yangtze river"
+   ],
+   "roundabout": [
+      "roundabout",
+      "A roundabout is a type of circular junction or roundabout where traffic flows almost continuously in one direction around a central island"
+   ],
+   "runway": [
+      "runway"
+   ],
+   "sea ice": [
+      "sea ice"
+   ],
+   "ship": [
+      "ship",
+      "sailboat ship",
+      "yacht ship",
+      "cargo ship",
+      "tanker ship",
+      "submarine ship"
+   ],
+   "snowberg": [
+      "snowberg"
+   ],
+   "sparse residential": [
+      "sparse residential",
+      "sparse sparse residential",
+      "residential sparse residential"
+   ],
+   "stadium": [
+      "arena stadium",
+      "amphitheater stadium",
+      "coliseum stadium",
+      "dome stadium",
+      "gymnasium stadium",
+      "pavilion stadium",
+      "stadium",
+      "theater stadium",
+      "velodrome stadium"
+   ],
+   "storage tank": [
+      "storage tank",
+      " storage tank"
+   ],
+   "tennis court": [
+      "tennis court",
+      "Tennis court"
+   ],
+   "terrace": [
+      "terrace",
+      "condominium terrace",
+      "townhouse terrace",
+      "rowhouse terrace",
+      "singlefamily home terrace",
+      "duplex terrace",
+      "apartment building terrace",
+      "mansion terrace",
+      "cottage terrace",
+      "chalet terrace"
+   ],
+   "thermal power station": [
+      "thermal power station",
+      "coal power station thermal power station",
+      "nuclear power station thermal power station",
+      "solar power station thermal power station",
+      "wind power station thermal power station"
+   ],
+   "wetland": [
+      "wetland",
+      "marsh wetland",
+      "swamp wetland",
+      "bog wetland"
+   ]
+}
