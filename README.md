@@ -1,5 +1,8 @@
-# clip-hierarchy
-Repository for the arxiv Submission: CHiLS: Zero-shot Image Classification with Hierarchical Label Sets.
+# CHiLS
+
+![CHiLS](fig19.jpeg)
+
+This is the official implementation for CHiLS: Zero-shot Image Classification with Hierarchical Label Sets.
 
 There are three main steps for recreating the paper results:
 
