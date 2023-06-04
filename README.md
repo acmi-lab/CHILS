@@ -4,13 +4,13 @@
 
 This is the official implementation for [CHiLS: Zero-shot Image Classification with Hierarchical Label Sets](https://arxiv.org/abs/2302.02551). If you find this repository useful or use this code in your research, please cite the following paper: 
 
-> Novack, Z. et al. (2023). CHiLS: Zero-shot Image Classification with Hierarchical Label Sets. arxiv preprint  arXiv:2302.02551. 
+> Zachary Novack, Julian McAuley, Zachary Lipton, and Saurabh Garg. Chils: Zero-shot image classification with hierarchical label sets. In International Conference on Machine Learning (ICML), 2023.
 ```
-@article{novack2023chils,
+@inproceedings{novack2023chils,
     title={CHiLS: Zero-Shot Image Classification with Hierarchical Label Sets},
-    author={Novack, Zachary and Garg, Saurabh and McAuley, Julian and Lipton, Zachary},
+    author={Novack, Zachary and McAuley, Julian and Lipton, Zachary and Garg, Saurabh},
     year={2023},
-    journal={arXiv preprint arXiv:2302.02551}, 
+    booktitle={International Conference on Machine Learning (ICML)}, 
 }
 ```
 
